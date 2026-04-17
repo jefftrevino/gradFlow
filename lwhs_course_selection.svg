@@ -124,7 +124,7 @@
 <rect x="44" y="1668" width="1032" height="102" rx="10" fill="#FEF9C3" stroke="#FCD34D" stroke-width="1.5"/>
 <text x="62" y="1688" font-size="13" fill="#78350F" font-weight="bold" text-anchor="start" opacity="1.0">Math and World Languages — check which apply (year-long, 1 slot each per semester)</text>
 <text x="62" y="1706" font-size="11" fill="#374151" font-weight="normal" text-anchor="start" opacity="1.0">☐  Math 3-year req not yet met  →  request next level. Track change? Contact José Perez before Apr 23.</text>
-<text x="62" y="1724" font-size="11" fill="#374151" font-weight="normal" text-anchor="start" opacity="1.0">☐  World Languages 3-year + Level 3 not yet met  →  request next level. Track change? Ms. Larson before Apr 23.</text>
+<text x="62" y="1724" font-size="11" fill="#374151" font-weight="normal" text-anchor="start" opacity="1.0">☐  World Languages 3-year + Level 3 not yet met  →  request next level. Track change? Contact Ms. Larson before Apr 23.</text>
 <text x="62" y="1742" font-size="11" fill="#15803D" font-weight="normal" text-anchor="start" opacity="1.0">✓  Math already complete  →  that slot is free: use for Flex Pool or free elective.</text>
 <text x="62" y="1760" font-size="11" fill="#15803D" font-weight="normal" text-anchor="start" opacity="1.0">✓  World Languages already complete  →  same: redirect that slot to Flex Pool or free elective.</text>
 <line x1="560" y1="1770" x2="560" y2="1814" stroke="#9CA3AF" stroke-width="2" marker-end="url(#arr)"/>
