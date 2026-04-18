@@ -11,21 +11,21 @@
 <text x="560" y="42" font-size="22" font-family="Gotham, 'Century Gothic', sans-serif" fill="white" font-weight="bold" text-anchor="middle" opacity="1.0">Lick-Wilmerding High School 4-Year Course Selection Guide</text>
 <text x="44" y="95" font-size="11" font-family="Helvetica, Arial, sans-serif" fill="#686868" font-weight="bold" text-anchor="start" opacity="1.0">Key</text>
 <rect x="44" y="102" width="220" height="30" rx="6" fill="#F5F5F5" stroke="#686868" stroke-width="1.5"/>
-<text x="154" y="121" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#686868" font-weight="bold" text-anchor="middle" opacity="1.0">Auto-enrolled</text>
-<text x="154" y="147" font-size="9" fill="#686868" font-weight="normal" text-anchor="middle" opacity="1.0">No action needed</text>
+<text x="154" y="121" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#686868" font-weight="bold" text-anchor="middle" opacity="1.0">No Action Needed</text>
+<text x="154" y="147" font-size="9" fill="#686868" font-weight="normal" text-anchor="middle" opacity="1.0">Automatic Enrollment or No Action Required</text>
 <rect x="314" y="102" width="220" height="30" rx="6" fill="#FDF5E4" stroke="#e59f4b" stroke-width="1.5"/>
-<text x="424" y="121" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#000000" font-weight="bold" text-anchor="middle" opacity="1.0">Required course</text>
-<text x="424" y="147" font-size="9" fill="#686868" font-weight="normal" text-anchor="middle" opacity="1.0">Required — no elective choice</text>
+<text x="424" y="121" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#000000" font-weight="bold" text-anchor="middle" opacity="1.0">Required Core Course Choice</text>
+<text x="424" y="147" font-size="9" fill="#686868" font-weight="normal" text-anchor="middle" opacity="1.0">Required History, English, Math, Science, or Langauge Class Choice</text>
 <rect x="584" y="102" width="220" height="30" rx="6" fill="#FDF5E4" stroke="#e59f4b" stroke-width="1.5"/>
-<text x="694" y="121" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#4D75C5" font-weight="bold" text-anchor="middle" opacity="1.0">Required elective</text>
-<text x="694" y="147" font-size="9" fill="#686868" font-weight="normal" text-anchor="middle" opacity="1.0">Required — from elective pool</text>
+<text x="694" y="121" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#4D75C5" font-weight="bold" text-anchor="middle" opacity="1.0">Required Elective Choice</text>
+<text x="694" y="147" font-size="9" fill="#686868" font-weight="normal" text-anchor="middle" opacity="1.0">Required Flex or Free Elective Choice</text>
 <rect x="854" y="102" width="220" height="30" rx="6" fill="#EEF3FA" stroke="#4D75C5" stroke-width="1.5"/>
-<text x="964" y="121" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#4D75C5" font-weight="bold" text-anchor="middle" opacity="1.0">Optional elective</text>
-<text x="964" y="147" font-size="9" fill="#686868" font-weight="normal" text-anchor="middle" opacity="1.0">Optional elective slot</text>
+<text x="964" y="121" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#4D75C5" font-weight="bold" text-anchor="middle" opacity="1.0">Optional Elective Choice</text>
+<text x="964" y="147" font-size="9" fill="#686868" font-weight="normal" text-anchor="middle" opacity="1.0">Optional Flex or Free Elective Choice</text>
 <g transform="translate(0, 90)">
 <rect x="44" y="80" width="1032" height="172" rx="12" fill="#EEF3FA" stroke="#4D75C5" stroke-width="2"/>
-<text x="62" y="106" font-size="15" font-family="Gotham, 'Century Gothic', sans-serif" fill="#4D75C5" font-weight="bold" text-anchor="start" opacity="1.0">Your Flex Pool</text>
-<text x="62" y="125" font-size="11" fill="#686868" font-weight="normal" text-anchor="start" opacity="1.0">5 requirements with flexible timing. Performing Arts is available any year (9th–12th). All other pool items are available 10th–12th only.</text>
+<text x="62" y="106" font-size="15" font-family="Gotham, 'Century Gothic', sans-serif" fill="#4D75C5" font-weight="bold" text-anchor="start" opacity="1.0">Your Flex Elective Pool</text>
+<text x="62" y="125" font-size="11" fill="#686868" font-weight="normal" text-anchor="start" opacity="1.0">Complete these 5 flex electives with flexible timing: complete Performing Arts any year (9th–12th) and all other items in 10th–12th grade only.</text>
 <rect x="62" y="135" width="316" height="38" rx="6" fill="white" stroke="#4D75C5" stroke-width="1.2"/>
 <text x="72" y="150" font-size="11" font-family="Helvetica, Arial, sans-serif" fill="#4D75C5" font-weight="bold" text-anchor="start" opacity="1.0">☐  Performing Arts</text>
 <text x="72" y="164" font-size="10" fill="#686868" font-weight="normal" text-anchor="start" opacity="1.0">1 semester  ·  9th–12th grade</text>
@@ -56,21 +56,21 @@
 <text x="62" y="512" font-size="12" fill="#000000" font-weight="normal" text-anchor="start" opacity="1.0">Contact the Admissions Office for placement test details and scheduling.</text>
 <line x1="560" y1="522" x2="560" y2="566" stroke="#686868" stroke-width="2" marker-end="url(#arr)"/>
 <polygon points="560,578 720,626 560,674 400,626" fill="#EEF3FA" stroke="#4D75C5" stroke-width="2"/>
-<text x="560" y="617" font-size="10" fill="#000000" font-weight="bold" text-anchor="middle" opacity="1.0">Want a Performing Arts class this year?</text>
-<text x="560" y="633" font-size="10" fill="#000000" font-weight="normal" text-anchor="middle" opacity="1.0">(optional — adds an 8th class one semester)</text>
+<text x="560" y="617" font-size="10" fill="#4D75C5" font-weight="bold" text-anchor="middle" opacity="1.0">Want a Performing Arts class this year?</text>
+<text x="560" y="633" font-size="10" fill="#4D75C5" font-weight="normal" text-anchor="middle" opacity="1.0">(optional — adds an 8th class one semester)</text>
 <line x1="720" y1="626" x2="758" y2="626" stroke="#686868" stroke-width="1.5" marker-end="url(#arr)"/>
-<text x="743" y="617" font-size="10" fill="#3F808A" font-weight="bold" text-anchor="middle" opacity="1.0">Yes</text>
+<text x="743" y="617" font-size="10" fill="#4D75C5" font-weight="bold" text-anchor="middle" opacity="1.0">Yes</text>
 <rect x="766" y="560" width="306" height="162" rx="8" fill="#EEF3FA" stroke="#4D75C5" stroke-width="1.5"/>
-<text x="776" y="577" font-size="11" fill="#3F808A" font-weight="bold" text-anchor="start" opacity="1.0">Request your first-choice Performing Arts course.</text>
-<text x="776" y="593" font-size="11" fill="#3F808A" font-weight="normal" text-anchor="start" opacity="1.0">Rank ≥5 other Performing Arts options as alternates.</text>
+<text x="776" y="577" font-size="11" fill="#4D75C5" font-weight="bold" text-anchor="start" opacity="1.0">Request your first-choice Performing Arts course.</text>
+<text x="776" y="593" font-size="11" fill="#4D75C5" font-weight="normal" text-anchor="start" opacity="1.0">Rank ≥5 other Performing Arts options as alternates.</text>
 <text x="776" y="611" font-size="11" fill="#4D75C5" font-weight="bold" text-anchor="start" opacity="1.0">✓  Check off Performing Arts</text>
 <text x="776" y="627" font-size="11" fill="#4D75C5" font-weight="bold" text-anchor="start" opacity="1.0">    in your Flex Pool.</text>
-<text x="776" y="645" font-size="10" fill="#686868" font-weight="normal" text-anchor="start" opacity="1.0">⚠  Audition/permission required:</text>
+<text x="776" y="645" font-size="10" fill="#DC2626" font-weight="normal" text-anchor="start" opacity="1.0">⚠  Audition/permission required:</text>
 <text x="776" y="659" font-size="10" fill="#000000" font-weight="normal" text-anchor="start" opacity="1.0">    Chamber Orch + Jazz/Contemporary Ensemble</text>
 <text x="776" y="673" font-size="10" fill="#000000" font-weight="normal" text-anchor="start" opacity="1.0">    Contact Jason Gillenwater by Apr 23.</text>
-<text x="776" y="691" font-size="10" fill="#3F808A" font-weight="normal" text-anchor="start" opacity="1.0">Rank alternates in your order of preference.</text>
-<text x="776" y="705" font-size="10" fill="#3F808A" font-weight="normal" text-anchor="start" opacity="1.0">The 8th class is not guaranteed — strong alternates</text>
-<text x="776" y="719" font-size="10" fill="#3F808A" font-weight="normal" text-anchor="start" opacity="1.0">help ensure you get the Performing Arts course you want.</text>
+<text x="776" y="691" font-size="10" fill="#4D75C5" font-weight="normal" text-anchor="start" opacity="1.0">Rank alternates in your order of preference.</text>
+<text x="776" y="705" font-size="10" fill="#4D75C5" font-weight="normal" text-anchor="start" opacity="1.0">The 8th class is not guaranteed — strong alternates</text>
+<text x="776" y="719" font-size="10" fill="#4D75C5" font-weight="normal" text-anchor="start" opacity="1.0">help ensure you get the Performing Arts course you want.</text>
 <line x1="400" y1="626" x2="360" y2="626" stroke="#686868" stroke-width="1.5" marker-end="url(#arr)"/>
 <text x="377" y="617" font-size="10" fill="#686868" font-weight="bold" text-anchor="middle" opacity="1.0">No</text>
 <rect x="44" y="596" width="308" height="60" rx="8" fill="#F5F5F5" stroke="#686868" stroke-width="1.5"/>
@@ -94,12 +94,12 @@
 <text x="62" y="1028" font-size="10" fill="#686868" font-weight="normal" text-anchor="start" opacity="1.0">   Contact José Perez (Math) or Ms. Larson (World Languages) before Apr 23.</text>
 <line x1="560" y1="1038" x2="560" y2="1082" stroke="#686868" stroke-width="2" marker-end="url(#arr)"/>
 <text x="44" y="1106" font-size="12" font-family="Helvetica, Arial, sans-serif" fill="#000000" font-weight="bold" text-anchor="start" opacity="1.0">Semester with Health</text>
-<rect x="44" y="1116" width="508" height="62" rx="8" fill="#FDF5E4" stroke="#e59f4b" stroke-width="1.5"/>
+<rect x="44" y="1116" width="508" height="62" rx="8" fill="#EBF5F6" stroke="#3F808A" stroke-width="1.5"/>
 <text x="58" y="1134" font-size="12" font-family="Helvetica, Arial, sans-serif" fill="#000000" font-weight="bold" text-anchor="start" opacity="1.0">Slot 3 (required): Sophomore Health</text>
 <text x="58" y="1152" font-size="11" fill="#000000" font-weight="normal" text-anchor="start" opacity="1.0">Request for this semester.</text>
 <text x="58" y="1168" font-size="11" fill="#3F808A" font-weight="normal" text-anchor="start" opacity="1.0">✓  Completes your Body-Mind Education requirement.</text>
 <rect x="44" y="1186" width="508" height="118" rx="8" fill="#EEF3FA" stroke="#4D75C5" stroke-width="1.5"/>
-<text x="58" y="1204" font-size="12" font-family="Helvetica, Arial, sans-serif" fill="#000000" font-weight="bold" text-anchor="start" opacity="1.0">Slot 4 (optional 7th class):</text>
+<text x="58" y="1204" font-size="12" font-family="Helvetica, Arial, sans-serif" fill="#4D75C5" font-weight="bold" text-anchor="start" opacity="1.0">Slot 4 (optional 7th class):</text>
 <text x="58" y="1222" font-size="11" fill="#4D75C5" font-weight="normal" text-anchor="start" opacity="1.0">Flex Pool item, free elective, Teaching Assistant, or independent study.</text>
 <text x="58" y="1240" font-size="10" fill="#000000" font-weight="normal" text-anchor="start" opacity="1.0">Teaching Assistant / Independent Study: have an informal conversation with the teacher first.</text>
 <text x="58" y="1254" font-size="10" fill="#000000" font-weight="normal" text-anchor="start" opacity="1.0">Note their name and class using the notepad icon when requesting.</text>
@@ -108,11 +108,11 @@
 <text x="58" y="1298" font-size="10" fill="#4D75C5" font-weight="normal" text-anchor="start" opacity="1.0">Skip this slot if you don't want a 7th class.</text>
 <text x="568" y="1106" font-size="12" font-family="Helvetica, Arial, sans-serif" fill="#000000" font-weight="bold" text-anchor="start" opacity="1.0">Semester without Health</text>
 <rect x="568" y="1116" width="508" height="62" rx="8" fill="#FDF5E4" stroke="#e59f4b" stroke-width="1.5"/>
-<text x="582" y="1134" font-size="12" font-family="Helvetica, Arial, sans-serif" fill="#000000" font-weight="bold" text-anchor="start" opacity="1.0">Slot 3 (required — class minimum = 6):</text>
+<text x="582" y="1134" font-size="12" font-family="Helvetica, Arial, sans-serif" fill="#4D75C5" font-weight="bold" text-anchor="start" opacity="1.0">Slot 3 (required): Elective (class minimum = 6):</text>
 <text x="582" y="1152" font-size="11" fill="#4D75C5" font-weight="normal" text-anchor="start" opacity="1.0">Flex Pool item or free elective. Rank ≥5 alternates.</text>
 <text x="582" y="1166" font-size="10" fill="#4D75C5" font-weight="normal" text-anchor="start" opacity="1.0">Performing / Technical / Visual Arts or G elective.</text>
 <rect x="568" y="1186" width="508" height="118" rx="8" fill="#EEF3FA" stroke="#4D75C5" stroke-width="1.5"/>
-<text x="582" y="1204" font-size="12" font-family="Helvetica, Arial, sans-serif" fill="#000000" font-weight="bold" text-anchor="start" opacity="1.0">Slot 4 (optional 7th class):</text>
+<text x="582" y="1204" font-size="12" font-family="Helvetica, Arial, sans-serif" fill="#4D75C5" font-weight="bold" text-anchor="start" opacity="1.0">Slot 4 (optional 7th class):</text>
 <text x="582" y="1222" font-size="11" fill="#4D75C5" font-weight="normal" text-anchor="start" opacity="1.0">Flex Pool item, free elective, Teaching Assistant, or independent study.</text>
 <text x="582" y="1240" font-size="10" fill="#000000" font-weight="normal" text-anchor="start" opacity="1.0">Teaching Assistant / Independent Study: have an informal conversation with the teacher first.</text>
 <text x="582" y="1254" font-size="10" fill="#000000" font-weight="normal" text-anchor="start" opacity="1.0">Note their name and class using the notepad icon when requesting.</text>
@@ -139,15 +139,15 @@
 <text x="62" y="1688" font-size="13" font-family="Helvetica, Arial, sans-serif" fill="#000000" font-weight="bold" text-anchor="start" opacity="1.0">Math and World Languages — check which apply (year-long, 1 slot each per semester)</text>
 <text x="62" y="1706" font-size="11" fill="#000000" font-weight="normal" text-anchor="start" opacity="1.0">☐  Math 3-year req not yet met  →  request next level. Track change? Contact José Perez before Apr 23.</text>
 <text x="62" y="1724" font-size="11" fill="#000000" font-weight="normal" text-anchor="start" opacity="1.0">☐  World Languages 3-year + Level 3 not yet met  →  request next level. Track change? Contact Ms. Larson before Apr 23.</text>
-<text x="62" y="1742" font-size="11" fill="#3F808A" font-weight="normal" text-anchor="start" opacity="1.0">✓  Math already complete  →  that slot is free: use for Flex Pool or free elective.</text>
-<text x="62" y="1760" font-size="11" fill="#3F808A" font-weight="normal" text-anchor="start" opacity="1.0">✓  World Languages already complete  →  same: redirect that slot to Flex Pool or free elective.</text>
+<text x="62" y="1742" font-size="11" fill="#4D75C5" font-weight="normal" text-anchor="start" opacity="1.0">✓  Math already complete  →  that slot is free: use for Flex Pool or free elective.</text>
+<text x="62" y="1760" font-size="11" fill="#4D75C5" font-weight="normal" text-anchor="start" opacity="1.0">✓  World Languages already complete  →  same: redirect that slot to Flex Pool or free elective.</text>
 <line x1="560" y1="1770" x2="560" y2="1814" stroke="#686868" stroke-width="2" marker-end="url(#arr)"/>
 <rect x="44" y="1822" width="1032" height="62" rx="10" fill="#FDF5E4" stroke="#e59f4b" stroke-width="1.5"/>
-<text x="62" y="1842" font-size="13" font-family="Helvetica, Arial, sans-serif" fill="#000000" font-weight="bold" text-anchor="start" opacity="1.0">6th class (required to meet class minimum):</text>
+<text x="62" y="1842" font-size="13" font-family="Helvetica, Arial, sans-serif" fill="#4D75C5" font-weight="bold" text-anchor="start" opacity="1.0">6th class (required to meet six class minimum):</text>
 <text x="62" y="1860" font-size="11" fill="#4D75C5" font-weight="normal" text-anchor="start" opacity="1.0">Flex Pool item first, or free elective (Performing / Technical / Visual Arts or G elective). Rank ≥5 alternates.</text>
 <line x1="560" y1="1884" x2="560" y2="1928" stroke="#686868" stroke-width="2" marker-end="url(#arr)"/>
 <rect x="44" y="1936" width="1032" height="118" rx="10" fill="#EEF3FA" stroke="#4D75C5" stroke-width="1.5"/>
-<text x="62" y="1956" font-size="13" font-family="Helvetica, Arial, sans-serif" fill="#000000" font-weight="bold" text-anchor="start" opacity="1.0">7th class (optional, not guaranteed):</text>
+<text x="62" y="1956" font-size="13" font-family="Helvetica, Arial, sans-serif" fill="#4D75C5" font-weight="bold" text-anchor="start" opacity="1.0">7th class (optional, not guaranteed):</text>
 <text x="62" y="1974" font-size="11" fill="#4D75C5" font-weight="normal" text-anchor="start" opacity="1.0">Flex Pool item, free elective, Teaching Assistant, or independent study.</text>
 <text x="62" y="1992" font-size="10" fill="#000000" font-weight="normal" text-anchor="start" opacity="1.0">Teaching Assistant / Independent Study: have an informal conversation with the teacher first.</text>
 <text x="62" y="2006" font-size="10" fill="#000000" font-weight="normal" text-anchor="start" opacity="1.0">Note their name and class using the notepad icon when requesting.</text>
@@ -204,12 +204,12 @@
 <text x="58" y="3040" font-size="10" fill="#686868" font-weight="normal" text-anchor="start" opacity="1.0">Haven't decided? You have until end of week 2 of the semester.</text>
 <text x="58" y="3054" font-size="10" fill="#4D75C5" font-weight="normal" text-anchor="start" opacity="1.0">Skip this slot if you don't want a 7th class.</text>
 <rect x="568" y="2860" width="508" height="218" rx="10" fill="#EEF3FA" stroke="#4D75C5" stroke-width="1.5"/>
-<text x="582" y="2882" font-size="13" font-family="Helvetica, Arial, sans-serif" fill="#4D75C5" font-weight="bold" text-anchor="start" opacity="1.0">Doubling opportunity (optional)</text>
-<text x="582" y="2906" font-size="11" fill="#4D75C5" font-weight="normal" text-anchor="start" opacity="1.0">If your World Language, Math, and Science</text>
-<text x="582" y="2922" font-size="11" fill="#4D75C5" font-weight="normal" text-anchor="start" opacity="1.0">requirements are all complete, you may take</text>
-<text x="582" y="2938" font-size="11" fill="#4D75C5" font-weight="normal" text-anchor="start" opacity="1.0">a 2nd A–E course (a=History, b=English, c=Math,</text>
-<text x="582" y="2954" font-size="11" fill="#4D75C5" font-weight="normal" text-anchor="start" opacity="1.0">d=Lab Science, e=World Languages), for 5 total A–E classes.</text>
-<text x="582" y="2974" font-size="10" fill="#4D75C5" font-weight="normal" text-anchor="start" opacity="1.0">Rank ≥5 alternates.</text>
+<text x="582" y="2882" font-size="13" font-family="Helvetica, Arial, sans-serif" fill="#000000" font-weight="bold" text-anchor="start" opacity="1.0">Doubling opportunity (optional)</text>
+<text x="582" y="2906" font-size="11" fill="#e59f4b" font-weight="normal" text-anchor="start" opacity="1.0">If your World Language, Math, and Science</text>
+<text x="582" y="2922" font-size="11" fill="#e59f4b" font-weight="normal" text-anchor="start" opacity="1.0">requirements are all complete, you may take</text>
+<text x="582" y="2938" font-size="11" fill="#e59f4b" font-weight="normal" text-anchor="start" opacity="1.0">a 2nd A–E course (a=History, b=English, c=Math,</text>
+<text x="582" y="2954" font-size="11" fill="#e59f4b" font-weight="normal" text-anchor="start" opacity="1.0">d=Lab Science, e=World Languages), for 5 total A–E classes.</text>
+<text x="582" y="2974" font-size="10" fill="#e59f4b" font-weight="normal" text-anchor="start" opacity="1.0">Rank ≥5 alternates.</text>
 <rect x="44" y="3090" width="1032" height="178" rx="12" fill="#EBF5F6" stroke="#3F808A" stroke-width="1.5"/>
 <text x="62" y="3116" font-size="15" font-family="Gotham, 'Century Gothic', sans-serif" fill="#3F808A" font-weight="bold" text-anchor="start" opacity="1.0">Add/Drop</text>
 <text x="62" y="3136" font-size="11" fill="#000000" font-weight="normal" text-anchor="start" opacity="1.0">Schedules released August 3  ·  Add/drop window: August 5 (8am) – August 12 (11:59pm)</text>
