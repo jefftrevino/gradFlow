@@ -1,5 +1,9 @@
 python3 generate_grade_svgs.py
 
+# Fix PDF timestamp to a constant so output is deterministic across runs.
+# rsvg-convert uses Cairo, which respects SOURCE_DATE_EPOCH for PDF metadata.
+export SOURCE_DATE_EPOCH=0
+
 # Convert root SVG
 for svg in *.svg; do
   base="${svg%.svg}"
