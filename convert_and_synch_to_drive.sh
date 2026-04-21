@@ -1,3 +1,7 @@
-rsvg-convert -f pdf lwhs_course_selection.svg -o lwhs_course_selection.pdf
-pandoc lwhs_course_selection.svg -o lwhs_course_selection.html
-cp ./lwhs_course_selection.* ~/mydrive/gradFlow
+python3 generate_grade_svgs.py
+for svg in *.svg; do
+  base="${svg%.svg}"
+  rsvg-convert -f pdf "$svg" -o "${base}.pdf"
+  pandoc "$svg" -o "${base}.html"
+done
+cp ./*.svg ./*.pdf ./*.html ~/mydrive/gradFlow
