@@ -1,0 +1,1673 @@
+{
+  "source": "https://www.lwhs.org/academic/course-catalog",
+  "total_courses": 84,
+  "courses": [
+    {
+      "id": 34,
+      "title": "Body-Mind Education",
+      "slug": "body-mind-education-courses/post/body-mind-education",
+      "department": "BME",
+      "term": "Fall 2026; Spring 2027",
+      "brief_description": "Movement, play, reflection, and connection",
+      "description": "BODY-MIND EDUCATION (One Semester) All 9th-graders participate in Body-Mind Education (BME). BME offers students a holistic and nurturing experience as they transition into high school, providing a safe and supportive learning environment where students feel seen, valued, and appreciated. Prioritizing movement, play, reflection, and connection, BME offers relevant, meaningful, and engaging learning experiences that balance individual growth and community collaboration. All BME instructors emphasize bodily autonomy and self-care, providing students with a variety of options for meeting challenges while honoring their own needs and boundaries. HEALTH & WELLNESS (One Quarter) The Health & Wellness section of the Body-Mind Education curriculum serves as a forum for students to explore meaningful teen health topics in a safe and structured environment. Students will explore personal values, engage in respectful dialogue, and develop critical thinking skills as they delve more deeply into the complex terrain of adolescence. We’ll consider a variety of topics throughout the course, including mental health awareness and stress skills, time management and study habits, sleep and nutrition, adolescent brain development, substance education, and healthy peer relationships. The curriculum incorporates games, journaling, discussion, media, surveys, and collaborative creative projects. MOVEMENT (One Quarter) The Movement Curriculum is a dynamic program designed to inspire students to gain a comprehensive understanding of their bodies while empowering them physically, mentally, and emotionally. This innovative course offers a diverse range of activities, exercises, and collaborative games integrated through rock climbing and yoga, allowing students to excel regardless of their initial fitness level. Students will build foundational physical abilities such as strength, flexibility, isometric endurance, balance, and proprioception while developing strategies such as breath control and meditation that will support them throughout their high school journey, Additionally, the course is designed to encourage the collaborative enjoyment of movement, creating a supportive environment that fosters both individual growth and community. Semester course offered in both Fall 2026 and Spring 2027.",
+      "prerequisites": "",
+      "uc_approved": false,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [
+        "Frosh Requirement"
+      ],
+      "tags": [
+        "Fall 2026",
+        "Spring 2027",
+        "Frosh Requirement"
+      ]
+    },
+    {
+      "id": 536,
+      "title": "Sacred Mountains: Rock Climbing and Environmental Justice PPP",
+      "slug": "body-mind-education-courses/post/9th-grade-health-wellness-1743104585328",
+      "department": "BME",
+      "term": "Spring 2027; PPP",
+      "brief_description": "Climbing, ecology, and environmental justice",
+      "description": "This UC “G” elective course explores the meeting point of body, nature, and justice through rock climbing, eco-somatic inquiry, and community engagement across the San Francisco Bay Area. Students will develop daily practices to reconnect with the natural world—even within our urban landscape—and learn how presence, movement, and awareness can deepen our sense of belonging to the Earth. Through climbing, field experiences, and collaboration with local organizations, we will explore climate action and environmental justice as living, embodied practices rooted in relationship, reciprocity, and care. No prior climbing experience or equipment is required. Prerequisites: One semester of BME This course is offered in both Fall 2025 and Spring 2026 and fulfills the Public Purpose Program requirement for juniors and seniors.",
+      "prerequisites": "One semester of BME",
+      "uc_approved": false,
+      "honors": false,
+      "g_course": false,
+      "ppp": true,
+      "grade_requirements": [
+        "Junior/Senior"
+      ],
+      "tags": [
+        "Spring 2027",
+        "PPP",
+        "Junior/Senior"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Soph Health: Human Sexuality",
+      "slug": "body-mind-education-courses/post/human-sexuality",
+      "department": "BME",
+      "term": "Fall 2026; Spring 2027",
+      "brief_description": "Human sexuality, identity, and healthy relationships",
+      "description": "(One semester) The Body-Mind Education department’s semester-long course for 10th-graders, “Soph Health: Human Sexuality,” offers an inclusive and well-structured space for students to explore the complex realm of sexuality, traversing culture, identity, intersectionality, values, relationships, pornography literacy, sexual health, safer sex, pleasure, and consent, among other topics. Drawing from readings, media, discussion, games, role-playing, films, surveys, creative projects, and journals, students will engage in open and respectful dialogue, clarify personal values, and critically confront the wider cultures that surround, inform, and  shape their lives. Prerequisite: One semester of Body-Mind Education. Semester course offered in both Fall 2026 and Spring 2027",
+      "prerequisites": "One semester of Body-Mind Education.",
+      "uc_approved": false,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [
+        "Sophomore"
+      ],
+      "tags": [
+        "Fall 2026",
+        "Spring 2027",
+        "Sophomore"
+      ]
+    },
+    {
+      "id": 537,
+      "title": "Yoga For Change: Breathe, Move, & Inspire PPP",
+      "slug": "body-mind-education-courses/post/sacred-mountains-rock-climbing-and-environmental-justice-1743105715103",
+      "department": "BME",
+      "term": "Fall 2026; Spring 2027; PPP",
+      "brief_description": "Yoga, mindfulness, fitness, and leadership",
+      "description": "Ready to deepen your yoga practice while making a difference? In this course, you'll dive into yoga as a powerful tool for self-care, physical fitness, and mindfulness; helping you find balance and focus in your daily life. But it doesn’t stop there. You’ll also get the chance to inspire younger kids by teaching them yoga in schools where PE and recess programs have been cut. This is your chance to share what you learn, build leadership skills, and help others discover the benefits of yoga. If you’re passionate about growing your practice and supporting others, this PPP course is for you!  Semester course offered in both Fall 2026 and Spring 2027.",
+      "prerequisites": "",
+      "uc_approved": false,
+      "honors": false,
+      "g_course": false,
+      "ppp": true,
+      "grade_requirements": [],
+      "tags": [
+        "Fall 2026",
+        "Spring 2027",
+        "PPP"
+      ]
+    },
+    {
+      "id": 731,
+      "title": "Zen in the Bay: A Holistic Exploration of Buddhist Meditation & Practice",
+      "slug": "body-mind-education-courses/post/zen-in-the-bay-a-holistic-exploration-of-buddhist-meditation-practice",
+      "department": "BME",
+      "term": "Fall 2026",
+      "brief_description": "Zen, mindfulness, and personal exploration",
+      "description": "This UC “G” elective course invites students into a meaningful exploration of Zen Buddhism and mindfulness practice through classroom learning and immersive experiences around the San Francisco Bay Area. We will explore meditation, neuroscience, ethics, art, and social engagement as ways of understanding and cultivating awareness in daily life. Students will learn and practice simple forms of meditation, reflect through journaling and creative projects, engage in small group discussions, and participate in field trips to local Buddhist centers and natural spaces. The course emphasizes balance, curiosity, and personal exploration over academic rigor—offering space to slow down, breathe, and experience what it means to live with greater clarity and compassion. Prerequisites: One semester of BME. This course is offered in Fall 2026 and is UC approved,",
+      "prerequisites": "One semester of BME.",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Fall 2026"
+      ]
+    },
+    {
+      "id": 732,
+      "title": "Creative Writing: Crafting Stories for Children and Young Adults PPP",
+      "slug": "english-courses/post/creative-writing-crafting-stories-for-children-and-young-adults-ppp",
+      "department": "English",
+      "term": "Spring 2027, PPP",
+      "brief_description": "Writing diverse, impactful children's and YA literature",
+      "description": "Children's and young adult literature has the power to shape how young readers see themselves and the world around them. In this course, students will learn the craft of writing stories for children and teens—stories that matter, stories that fill gaps in representation, stories that respond to the cultural moment we're living in. Through hands-on writing exercises, close study of mentor texts, and workshop sessions, students will explore techniques for creating compelling characters, vivid worlds, authentic dialogue, and narratives that resonate with young readers. Students will experiment with multiple forms—from picture books to middle grade to young adult fiction—and develop their unique voices as storytellers. Throughout the course, students will ask: What is this story for? What new perspective does it offer? How might it shift, expand, or challenge a young reader's understanding of themselves, others, and what's possible? At the heart of this course is the belief that a supportive creative community can inspire writers to take risks, experiment boldly, and craft stories that young readers need. Public Purpose Program: Students will partner with an organization promoting LGBTQ+ literature and combating book censorship (such as Books Not Bans or Drag Story Hour) to support their missions through fundraising, digital content creation, and other community outreach activities. Prerequisites: English 1 This UC approved course is offered in Spring 2027 and fulfills the Public Purpose Program requirement for juniors and seniors.",
+      "prerequisites": " English 1",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": true,
+      "grade_requirements": [
+        "Junior/Senior"
+      ],
+      "tags": [
+        "Spring 2027",
+        "PPP",
+        "Junior/Senior"
+      ]
+    },
+    {
+      "id": 36,
+      "title": "English 1",
+      "slug": "english-courses/post/english-1",
+      "department": "English",
+      "term": "Yearlong",
+      "brief_description": "The study of literature and writing",
+      "description": "The English 1 curriculum prepares students for the study of literature and writing at LWHS. Students practice the skills of careful reading, listening, and speaking as they encounter literature in a variety of genres. Students are also introduced to and practice the foundations of analytical writing—composing thesis statements, embedding textual evidence, and analyzing text. Students examine their own values and perspectives as they read and write. In particular, they are asked to consider the ways in which expectations for reading and writing change in high school. Learning collaboratively is also a significant focus of the class as students work in groups to construct theories, explore evidence, and ask questions. Prerequisite: None This is a yearlong course and is UC approved.",
+      "prerequisites": "None",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [
+        "Frosh Requirement"
+      ],
+      "tags": [
+        "Yearlong",
+        "Frosh Requirement"
+      ]
+    },
+    {
+      "id": 37,
+      "title": "English 2",
+      "slug": "english-courses/post/english-2",
+      "department": "English",
+      "term": "Yearlong",
+      "brief_description": "Fiction, drama, and poetry",
+      "description": "The English 2 curriculum focuses on world literature. Students read core texts comprising fiction, drama, and poetry. Essential questions guide their critical thinking, while student-led discussions allow for literary exploration from a variety of perspectives. Students learn to closely read and make thoughtful annotations, in addition to frequently writing analytical and creative responses to literature. With an emphasis on revision over time, student writing culminates in a final portfolio that showcases growth and mastery. Prerequisite: English 1 This is a yearlong course and is UC approved.",
+      "prerequisites": "English 1",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Yearlong"
+      ]
+    },
+    {
+      "id": 38,
+      "title": "Honors English 3",
+      "slug": "english-courses/post/english-3-honors",
+      "department": "English",
+      "term": "Yearlong",
+      "brief_description": "Careful reading and critical analysis of literature",
+      "description": "The Honors English 3 curriculum focuses on reading and writing about literature from the United States. As students engage in careful reading and critical analysis, the course develops awareness about how language and story construct identity, both individual and communal. In particular, students advance their close reading, specifically their understanding of detail, diction, imagery, syntax, and structure. Students write in a variety of genres and continue to develop strategies for crafting sophisticated arguments supported by precise textual evidence and analysis. A focus on stylistic and grammatical clarity becomes increasingly significant in writing instruction. Both group activities and whole class discussions are central to the study of the course texts. Collaborative projects and presentations encourage students to take on greater intellectual leadership in the classroom. Prerequisite: English 2 This is a yearlong course and is UC approved.",
+      "prerequisites": "English 2",
+      "uc_approved": true,
+      "honors": true,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Yearlong"
+      ]
+    },
+    {
+      "id": 540,
+      "title": "Honors English 4: (En)gendered Violence",
+      "slug": "english-courses/post/english-4-honors-ppp-the-cultural-work-of-queer-storytelling-1743107706129",
+      "department": "English",
+      "term": "Fall 2026",
+      "brief_description": "US literature and philosophy about gendered forms of violence",
+      "description": "In this course, we will read US literature and philosophy (drawing from feminist theory and masculinity studies) about gendered forms of violence. We’ll read and discuss texts about domestic violence and rape; asking how US institutions, history, and belief systems contribute to those violent acts. We will also discuss texts that illustrate ways to heal and form healthy, supportive relationships. Texts include Anna Quindlen’s Black and Blue, Sandra Cisnero’s “Woman Hollering Creek,” and Alice Walker’s The Color Purple. Prerequisite: Honors English 3 This course is offered in Fall 2026 and is UC approved.",
+      "prerequisites": "Honors English 3",
+      "uc_approved": true,
+      "honors": true,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Fall 2026"
+      ]
+    },
+    {
+      "id": 733,
+      "title": "Honors English 4: Black Joy: Visions of Power, Resistance & Hope in African American Literature",
+      "slug": "english-courses/post/english-4-honors-african-american-literature-from-anger-to-action-1775074790211",
+      "department": "English",
+      "term": "Fall 2026",
+      "brief_description": "African American literature: identity, power, change",
+      "description": "Throughout its history, African American literature has always been a declaration of selfhood, an exercise of power, and a vision of what is possible. This course offers a peek into the breadth and depth of that African American literary tradition, tracing its evolution across genres and movements. Students will read and analyze a diverse range of texts — including poetry, fiction, essays, and narrative — engaging with writers whose work celebrates the complexity and vitality of Black experience in America. Through close reading, discussion, and analysis, students will explore how African American writers have claimed and defined identity on their own terms, wielded language as power while insisting on the beauty, and humanity of blackness in America. Transformation has always been central to the works of Black writers: how does art rooted in lived experience become a call to action? How do writers convert passion into collective power and visions of a liberated future? We will explore how resistance, and creative spirit recur and evolve throughout the works of Black American Artist. By the end of the course, students will have developed both a broad literary map of the African American tradition and the critical tools to engage it — not only as scholars, but as readers moved by its beauty, its boldness, and its enduring belief in the possibility of change. Texts may include works by artist such Langston Hughes, Gwendolyn Brooks, Sonia Sanchez, Nikki Giovanni, Amanda Gorman, Zora Neale Hurston, Toni Morrison, Octavia Butler, Colson Whitehead, James Baldwin, Audre Lorde, bell hooks, Ta-Nehisi Coates, Barry Jenkins, Ryan Coogler, Ava DuVernay, Nina Simone, Gil Scott-Heron Public Enemy, Kendrick Lamar and Beyonc&eacute;  Prerequisite: Honors English 3 This course is offered in Fall 2026 and is UC approved.",
+      "prerequisites": "Honors English 3",
+      "uc_approved": true,
+      "honors": true,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Fall 2026"
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Honors English 4: Carceral Culture: Stories, Histories, Alternatives PPP",
+      "slug": "english-courses/post/english-4-honors-carceral-culture",
+      "department": "English",
+      "term": "Spring 2027",
+      "brief_description": "Mass incarceration, race, narratives, justice",
+      "description": "Beyond TV shows like Law and Order or COPS, what are the stories that shape your understanding of the current system of mass incarceration in the United States? How do these stories impact your perception of people labelled “criminal” or “felon”? Michelle Alexander argues that with labels like these “we have not ended racial caste in America; we have merely redesigned it.” Angela Y. Davis goes further and argues that “[h]omelessness, unemployment, drug addiction, mental illness, and illiteracy are only a few of the problems that disappear from public view when the human beings contending with them are relegated to cages.”  This PPP seminar will explore the American system of mass criminalization from the inside out.  We’ll confront some obvious questions like why does the American system of punishment disproportionately target people of color? We’ll examine the role and power of language in shaping who gets systematically targeted? And we’ll explore alternatives to the current practice of locking people up. We will center the voices and experiences of those directly impacted by carceral culture through podcasts and first-person narratives. Throughout, we will frame our work through an antiracist lens to affirm the dignity and humanity of all people, embrace historical truths (including the untold truths), and develop a critical consciousness around how dominant narratives dominate and perpetuate marginalization* *Adapted from The Center for AntiRacist Education.  Participation in PPP days is a requirement to pass the class. Prerequisite: Honors English 3 This UC approved course is offered in Spring 2027 and fulfills the PPP requirement for juniors and seniors.",
+      "prerequisites": "Honors English 3",
+      "uc_approved": true,
+      "honors": true,
+      "g_course": false,
+      "ppp": true,
+      "grade_requirements": [
+        "Junior/Senior"
+      ],
+      "tags": [
+        "Spring 2027",
+        "Junior/Senior"
+      ]
+    },
+    {
+      "id": 734,
+      "title": "Honors English 4: Children vs. Monsters PPP",
+      "slug": "english-courses/post/english-4-honors-children-vs-monsters-ppp-1775075524171",
+      "department": "English",
+      "term": "Fall 2026, PPP",
+      "brief_description": "Monsters, queerness, censorship, childhood, power",
+      "description": "Monsters in literature have always marked boundaries: what's acceptable, what's dangerous, what threatens social order. They are frequently queer-coded figures who transgress norms and inhabit liminal spaces. Book banning operates by the same logic, marking certain stories—especially queer stories, stories of resistance—as threats to childhood &quot;innocence&quot; that must be kept out of children's hands. In this seminar, students will read children's and young adult literature through rigorous theoretical frameworks including Monster Theory, Childhood Studies, Liminality, Queer Theory, Intersectionality, and Feminist Studies. Students will examine how monsters function in stories, how certain books are themselves &quot;monstered&quot; through censorship, and how we celebrate children fighting monsters in fiction while real children face harm that goes unaddressed. Through close reading and theoretical analysis, students will explore what children's literature reveals about power, vulnerability, and the systems that shape childhood. Public Purpose Program: Students will partner with an organization promoting LGBTQ+ literature and combating book censorship (such as Books Not Bans or Drag Story Hour) to support their missions through fundraising, digital content creation, and other community outreach activities. Prerequisite: Honors English 3 This UC approved course is offered in Fall 2026 and fulfills the PPP requirement for juniors and seniors.",
+      "prerequisites": "Honors English 3",
+      "uc_approved": true,
+      "honors": true,
+      "g_course": false,
+      "ppp": true,
+      "grade_requirements": [
+        "Junior/Senior"
+      ],
+      "tags": [
+        "Fall 2026",
+        "PPP",
+        "Junior/Senior"
+      ]
+    },
+    {
+      "id": 41,
+      "title": "Honors English 4: Contagion and Regeneration: What Plagues Teach Us About Ourselves",
+      "slug": "english-courses/post/english-4-honors-contagion-and-regeneration",
+      "department": "English",
+      "term": "Fall 2026",
+      "brief_description": "Midwives, zombies, vampires, and beyond",
+      "description": "For centuries, plagues and epidemics have devastated human populations across the globe. As Albert Camus observed, such crises expose the underlying fissures within society. In moments of global health catastrophe, the social pathologies of capitalism and xenophobia can prove as lethal as the contagions themselves. Yet disaster also opens spaces for transformation. How do large-scale outbreaks reveal systemic injustices, and how might these moments of rupture offer opportunities to disrupt established power structures, dominant narratives, physical spaces and patterns of marginalization? During this course, together we will examine the ways authors use large scale disease outbreaks as a framework for cultural, political, and social critique. Reading texts that reflect the beliefs of Puritan England, the philosophy of the Absurd, and the concept of Ontological Expansiveness, students will explore how representations of plague challenge systems of class, capitalism, heteronormativity, and xenophobia and open up the spaces to reimagine alternative ways to live. Texts include: The Year of Wonders by Geraldine Brooks, The Plague by Albert Camus, Feral City: On Finding Liberation in Lockdown New York by Jeremiah Moss as well as additional supplementary texts and essays. Prerequisite: Honors English 3 This course is offered in Fall 2026 and is UC approved.",
+      "prerequisites": "Honors English 3",
+      "uc_approved": true,
+      "honors": true,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Fall 2026"
+      ]
+    },
+    {
+      "id": 753,
+      "title": "Frosh Ethnic Studies",
+      "slug": "history-courses/post/frosh-ethnic-studies-1776124002396",
+      "department": "Ethnic Studies",
+      "term": "Fall 2026; Spring 2027; PPP",
+      "brief_description": "Critical Ethnic Studies perspectives",
+      "description": "Ethnic Studies is an interdisciplinary field of study that encompasses many subject areas including history, literature, economics, sociology, anthropology, and political science. It emerged to both address content considered missing from traditional curriculum and to encourage critical engagement.  As a field, Ethnic Studies seeks to empower all students to engage socially and politically and to think critically about the world around them. It is important for Ethnic Studies courses to document the experiences of People of Color in order for students to construct counter-narratives and develop a more complex understanding of the human experience. Through these studies, students should develop respect for cultural diversity and see the advantages of inclusion.  Because of the interdisciplinary nature of this field, Ethnic Studies courses may take several forms. However, central to any Ethnic Studies course is the historic struggle of communities of color, taking into account the intersectionality of identity (gender, class, sexuality, among others), to challenge racism, discrimination, and oppression and interrogate the systems that continue to perpetuate inequality. This semester long course is offered in both Fall 2026 and Spring 2027 and fulfills the Public Purpose Program requirement for freshmen. It is UC approved.",
+      "prerequisites": "",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": true,
+      "grade_requirements": [
+        "Frosh Requirement"
+      ],
+      "tags": [
+        "Fall 2026",
+        "Spring 2027",
+        "PPP",
+        "Frosh Requirement"
+      ]
+    },
+    {
+      "id": 109,
+      "title": "Honors United States History",
+      "slug": "history-courses/post/united-states-history-honors",
+      "department": "History",
+      "term": "Yearlong",
+      "brief_description": "The United States from its origins to the present",
+      "description": "As a survey of United States history, this required 11th grade course offers students a study of the social, political, economic, and cultural developments and patterns that have formed the United States from its origins to the present. Our course’s guiding questions include: How has resistance to injustice shaped the nation? How do different groups understand injustice differently? What is the changing role of government in individuals’ lives? How are historical narratives created? How does historical narrative impact the actual unfolding of history? The assignments and activities focus on research, analysis, discussion, writing, presentation, and collaboration. We approach with the perspective that history shapes the way we understand ourselves, our communities, our nation, and our role in the world. Prerequisite: Modern World History This yearlong course is UC approved.",
+      "prerequisites": "Modern World History",
+      "uc_approved": true,
+      "honors": true,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [
+        "Junior/Senior"
+      ],
+      "tags": [
+        "Yearlong",
+        "Junior/Senior"
+      ]
+    },
+    {
+      "id": 102,
+      "title": "Modern World History",
+      "slug": "history-courses/post/modern-world-history",
+      "department": "History",
+      "term": "Yearlong",
+      "brief_description": "Social, political, and economic historical developments from the early modern period through the Cold War",
+      "description": "The sophomore World History course highlights broad social, political, and economic historical developments from the early modern period through the Cold War. We will explore why global power structures have changed and what their impacts have been on modern global issues and current events. We also will examine systems of power, focusing on the ways they shaped interactions between peoples around the world. We will focus on major global developments including how the present has been shaped by the great global convergence, Atlantic revolutions, industrialization, imperialism, resistance movements and global conflicts. Students will learn and practice historical skills including research, source analysis, discussion, writing, presentation, and collaboration. Prerequisite: None This yearlong course is UC approved.",
+      "prerequisites": "None",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [
+        "Sophomore"
+      ],
+      "tags": [
+        "Yearlong",
+        "Sophomore"
+      ]
+    },
+    {
+      "id": 103,
+      "title": "Modern World History Seminar: A Collision of Cultures: Identity in Latin America",
+      "slug": "history-courses/post/modern-world-history-seminar-a-collision-of-cultures-identity-in-modern-latin-america",
+      "department": "History",
+      "term": "Fall 2026",
+      "brief_description": "Identity in Modern Latin America",
+      "description": "Latin America has a deep impact on our culture—the way we speak, the way we dress, what we eat, and of course how we view some of the most pressing political issues of the day.  Yet for some reason, Americans are particularly ignorant about the historical narrative of the myriad peoples , cultures, and nations that exist to our South. With this in mind, this course examines the ethnic, racial, gender, economic, and cultural diversity of Latin America. It considers how cultural encounters between and among diverse identities during the course of the region’s history have manifested themselves in the modern popular culture, politics and economics of the region. Students will examine the impact of immigration, slavery, and genocide on the emergence of geographic, ethnic, and cultural enclaves, and the constant re-formulation of identities in Latin America. It will also discuss and complicate the term Latino (or “Latinx”) and what it means, both in the US and beyond. Students in the course should come away with an understanding of both the nature and importance of Latino as an identity, and also of the various challenges inherent in the creation of the category. Oh, and you’ll also hear a lot of great music! This course is offered in Fall 2026 and is UC approved.",
+      "prerequisites": "",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Fall 2026"
+      ]
+    },
+    {
+      "id": 104,
+      "title": "Modern World History Seminar: Foodways: Food & Community in World History",
+      "slug": "history-courses/post/modern-world-history-seminar-foodways-in-the-present-and-beyond",
+      "department": "History",
+      "term": "Spring 2027",
+      "brief_description": "Peoples' culture and identity through food",
+      "description": "Human history is mirrored in the diverse ways that our ancestors learned to feed themselves, the culinary practices they developed and how they are tied to enduring stories of culture and identity, especially after the agricultural revolution.  This course asks students to consider the historical dynamics that shaped how different peoples approached food and what that reveals about their larger social, spiritual, economic and political values.  We will better understand the historical spread of foodways and the challenges created by industrialized food systems today through historical inquiry, storytelling, one local field trip, self-directed cooking at home and by celebrating the art of eating. Prerequisite: Honors U.S. History This course is offered in Spring 2027 and is UC approved.",
+      "prerequisites": "Honors U.S. History",
+      "uc_approved": true,
+      "honors": true,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Spring 2027"
+      ]
+    },
+    {
+      "id": 542,
+      "title": "Modern World History Seminar: Indigenous Peoples & Voices in the Present",
+      "slug": "history-courses/post/us-history-seminar-the-us-and-the-middle-east-1743108898485",
+      "department": "History",
+      "term": "Fall 2026",
+      "brief_description": "The historical and contemporary experiences of Indigenous groups in the Americas ",
+      "description": "Indigenous peoples were the original inhabitants of the Western Hemisphere and despite facing centuries of genocide and erasure, their stories, legacies and descendents are still here because of Native survivance. This Indigenous Studies course asks students to consider the historical and contemporary experiences of first nations in the Americas by centering their stories and voices to highlight their histories, communal values and resilience. Our historical understanding will be enriched through mixed media, literature, films, the work of indigenous activists, a field trip and ceremonies. Prerequisite: Honors U.S. History This course is offered in Fall 2026 and is UC approved.",
+      "prerequisites": "Honors U.S. History",
+      "uc_approved": true,
+      "honors": true,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Fall 2026"
+      ]
+    },
+    {
+      "id": 100,
+      "title": "U.S. History Seminar: The U.S. and the Middle East",
+      "slug": "history-courses/post/modern-us-history-seminar-the-us-and-the-middle-east",
+      "department": "History",
+      "term": "Spring 2027",
+      "brief_description": "An exploration of the relationship between the US and the Middle East",
+      "description": "The Middle East has long held a place of importance in the cultural imagination of Americans, and more recently has played an outsized role in the political and economic narrative of American history.  This course examines the history and complexities of US-Middle Eastern relations through an exploration of the issues that have defined this relationship.  Oil, religion, imperialism, the Arab-Israeli Conflict, the Cold War, “terrorism,” Islamophobia, and more recently, the rise of ISIS, refugee crises, the Arab Spring, and US-Iranian tensions are among the many issues that students in this course will explore.  Students in the course will undertake both original research projects and more action-oriented work that seeks to illuminate the structures of power and ideologies that have underpinned US-Middle Eastern Relations.   Prerequisite: Honors U.S. History This course is offered in Spring 2027 and is UC approved.",
+      "prerequisites": "Honors U.S. History",
+      "uc_approved": true,
+      "honors": true,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Spring 2027"
+      ]
+    },
+    {
+      "id": 108,
+      "title": "US History Seminar: Asian American Activism",
+      "slug": "history-courses/post/us-history-seminar-asian-american-activism",
+      "department": "History",
+      "term": "Fall 2026",
+      "brief_description": "Asian American activism: history, identity, solidarity",
+      "description": "Is there a unifying characteristic of Asian American activism, and if so, how can it guide us today? By studying the visions, methods, and challenges of a range of examples of Asian American activism across time and place, we will respond to those questions and more. At a time of emphasis on the wide range of experiences and histories of specific Asian American communities, we investigate and evaluate the current need for and significance of the term Asian American. By engaging closely with how Asian American activists have thought of themselves and their commitments to global visions toward liberation, we make room to consider the relationships between activism and healing and between lineage and love. We will support the ongoing work of Asian American activists and will share dimensions of our learning with the LWHS community, ultimately making solidarity not only an aspiration but a felt, immediate reality.  Prerequisite: Honors U.S. History This course is offered in Fall 2026 and is UC approved.",
+      "prerequisites": "Honors U.S. History",
+      "uc_approved": true,
+      "honors": true,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Fall 2026"
+      ]
+    },
+    {
+      "id": 737,
+      "title": "US History Seminar: Bay Area History PPP",
+      "slug": "history-courses/post/us-history-seminar-bay-area-history-ppp",
+      "department": "History",
+      "term": "Spring 2027; PPP",
+      "brief_description": "Bay Area history, identity, and citizenship",
+      "description": "In this course, we will investigate the history of the Bay Area through four historical lenses: environmental history, labor history, immigration history, and political history. With each of these lenses, we will examine major moments in the region’s history to understand how the Bay Area became the dynamic, radical hub of technological and political progress that it is today. Additionally, this will be a PPP course, so within each unit, we will guide our learning with essential questions about our present day impact and engagement in the region. Ultimately, these investigations will help us get closer to an answer for a perennially important question—what does it mean to be a citizen of the Bay Area? The course will feature reading, writing, creative work, field trips, service learning, and community engagement. This UC approved course is offered in Spring 2027 and fulfills the Public Purpose Program requirement for juniors and seniors.",
+      "prerequisites": "",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": true,
+      "grade_requirements": [
+        "Junior/Senior"
+      ],
+      "tags": [
+        "Spring 2027",
+        "PPP",
+        "Junior/Senior"
+      ]
+    },
+    {
+      "id": 738,
+      "title": "US History Seminar: Civic Power PPP",
+      "slug": "history-courses/post/us-history-seminar-civic-power-ppp-1775082454825",
+      "department": "History",
+      "term": "Spring 2027, PPP",
+      "brief_description": "Civic engagement, power, and social change",
+      "description": "Civic Power explores how people and institutions work to create change in their communities. Through research and discussion, we will investigate how power operates in democratic systems and where opportunities for civic engagement exist. We will examine how federal, state, and local governments shape policies to address issues from housing to education, considering where conflicts emerge, and how power structures and decision-making happen. We will then explore how nonprofits, advocacy groups, and grassroots organizations work alongside—or sometimes in place of—government to address community needs. We will also examine the role of art, music, and media in protest movements, exploring how creative expression has been used to challenge injustice and inspire social change. As part of the PPP component, we will engage with local community organizations, help organize a community resource fair, and ultimately collaborate to help others understand the power individuals have to create change. This UC approved course is offered in Spring 2027 and fulfills the Public Purpose Program requirement for juniors and seniors.",
+      "prerequisites": "",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": true,
+      "grade_requirements": [
+        "Junior/Senior"
+      ],
+      "tags": [
+        "Spring 2027",
+        "PPP",
+        "Junior/Senior"
+      ]
+    },
+    {
+      "id": 739,
+      "title": "US History Seminar: Ethnic Studies Seminar—School: Purpose and Possibility PPP",
+      "slug": "history-courses/post/us-history-seminar-ethnic-studies-ppp-1775082743035",
+      "department": "History",
+      "term": "Spring 2027; PPP",
+      "brief_description": "Education, democracy, and Ethnic Studies history",
+      "description": "What did W.E.B. Du Bois mean in 1923 when he said that “the public school is the only real foundation for democracy,” and what do we make of that vision today? We will trace various meanings of education and schooling throughout United States history, and we will follow our own honest inquiries about the lives and hopes of students and teachers. As we begin Ethnic Studies for ninth graders here at LWHS, we additionally will use this course as an opportunity simultaneously to engage more thoroughly with the history of the Third World Liberation Front (TWLF) at San Francisco State and also to surface histories of LWHS that, together, can move us toward what is possible, toward what more fully realizes our own public purpose.  This UC approved course is offered in Spring 2027 and fulfills the Public Purpose Program requirement for juniors and seniors.",
+      "prerequisites": "",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": true,
+      "grade_requirements": [
+        "Junior/Senior"
+      ],
+      "tags": [
+        "Spring 2027",
+        "PPP",
+        "Junior/Senior"
+      ]
+    },
+    {
+      "id": 139,
+      "title": "Independent Study",
+      "slug": "independent-studies-courses/post/independent-study-independent-studies-courses",
+      "department": "Independent Studies",
+      "term": "Fall 2024; Spring 2025",
+      "brief_description": "",
+      "description": "Juniors and seniors (sophomores only with significant exception) may participate in semester-long independent studies to investigate a topic in a discipline not offered at LWHS (e.g. economics) or a topic not covered in-depth in the curriculum (e.g. Native American history). Students must apply for an independent study by submitting a detailed proposal that includes—a pointed question that the student will investigate, a syllabus detailing what materials the student will explore, and a description of the proposed final product. While a faculty member must supervise an independent study, the work of planning and executing the independent study is the responsibility of the student. (new faculty may not sponsor in their first year) Aside from shops-based independent studies that may require supervision, students should expect to check in with their supervising teacher roughly once a rotation. In short, independent studies should be independent. The supervising teacher, the appropriate Department Chair, and the Dean of Teaching and Learning must review and sign the proposal. A student may conduct only one Independent Study in an academic year, either fall or spring semester, and it does not count as one of the six required courses. All Independent Studies are graded pass/fail. Teachers may supervise only one independent study per academic year.  This course is offered in both Fall 2024 and Spring 2025.",
+      "prerequisites": "",
+      "uc_approved": false,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [
+        "Junior/Senior",
+        "Sophomore"
+      ],
+      "tags": [
+        "Fall 2024",
+        "Spring 2025",
+        "Junior/Senior",
+        "Sophomore"
+      ]
+    },
+    {
+      "id": 402,
+      "title": "Independent Study PPP",
+      "slug": "independent-studies-courses/post/independent-study-ppp-1713302404543",
+      "department": "Independent Studies",
+      "term": "Fall 2024; Spring 2025; PPP",
+      "brief_description": "",
+      "description": "Juniors and seniors (sophomores only with significant exception) may participate in semester-long independent studies to investigate a topic in a discipline not offered at LWHS (e.g. economics) or a topic not covered in-depth in the curriculum (e.g. Native American history). Students must apply for an independent study by submitting a detailed proposal that includes—a pointed question that the student will investigate, a syllabus detailing what materials the student will explore, and a description of the proposed final product. A PPP Independent Study also requires a summary of the student’s public purpose/community partnership commitment. While a faculty-staff member must supervise an independent study, the work of planning and executing the independent study is the responsibility of the student. (new faculty-staff may not sponsor in their first year).  The supervising teacher, the appropriate Department Chair,  the Dean of Teaching and Learning and the Director of the Public Purpose Program must review and sign the proposal. A student may conduct only one PPP Independent Study in an academic year, either fall or spring semester, and it does not count as one of the six required courses. All PPP Independent Studies are graded pass/fail. Teachers may supervise only one PPP independent study per academic year.  This course is offered in both Fall 2024 and Spring 2025 and fulfills the Public Purpose Program requirement for juniors and seniors.",
+      "prerequisites": "",
+      "uc_approved": false,
+      "honors": false,
+      "g_course": false,
+      "ppp": true,
+      "grade_requirements": [
+        "Junior/Senior",
+        "Sophomore"
+      ],
+      "tags": [
+        "Fall 2024",
+        "Spring 2025",
+        "PPP",
+        "Junior/Senior",
+        "Sophomore"
+      ]
+    },
+    {
+      "id": 116,
+      "title": "Accelerated Algebra 2",
+      "slug": "mathematics-courses/post/algebra-2-accelerated",
+      "department": "Mathematics",
+      "term": "Yearlong",
+      "brief_description": "A faster pace and a more theoretical approach to learning algebra",
+      "description": "Accelerated Algebra 2 is an intermediate algebra course intended for those who can benefit from a faster pace and a more theoretical approach to learning algebra. In addition to material covered in Algebra 2, it includes a more thorough treatment of complex numbers and a more in-depth study of polynomials, rational, exponential, and logarithmic functions. An enrichment unit on topics such as linear algebra and vectors will also be included if time allows.  The course encourages a variety of approaches to problem solving using mathematical models, with extensive use of graphical methods. A strong foundation in algebraic/symbolic manipulation is needed. Students are expected to solve skill-based problems as well as non-routine problems that require creative problem solving and experimentation.  Students who successfully complete this course move on to Precalculus or Precalculus Honors with department recommendation. Prerequisites: Inductive or Deductive Geometry and department recommendation This course is offered yearlong and is UC approved.",
+      "prerequisites": "Inductive or Deductive Geometry and department recommendation",
+      "uc_approved": true,
+      "honors": true,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Yearlong"
+      ]
+    },
+    {
+      "id": 114,
+      "title": "Algebra 1",
+      "slug": "mathematics-courses/post/algebra-1",
+      "department": "Mathematics",
+      "term": "Yearlong",
+      "brief_description": "A review of the number system, fractions, and percents, as well as an introduction to mathematical symbols and operations",
+      "description": "This course deepens and extends students’ understanding of elementary algebra, building the foundational tools needed for success in subsequent math courses. It begins with a review of the number system, fractions, and percents, along with an introduction to mathematical symbols and operations. From there, students explore ratios; simplification and factoring of variable expressions; solutions to linear equations, inequalities, and systems; graphing linear equations and inequalities in two variables; and modeling real-world situations. Throughout the course, students engage with concepts through numeric, symbolic, verbal, and visual representations. Emphasis is placed on mathematical thinking practices that promote reasoning and conceptual understanding, rather than rote memorization of algorithms, rules and formulas. Students who successfully complete this course move on to Inductive Geometry or Deductive Geometry with department recommendation. This is a yearlong course and is UC approved.",
+      "prerequisites": "",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Yearlong"
+      ]
+    },
+    {
+      "id": 115,
+      "title": "Algebra 2",
+      "slug": "mathematics-courses/post/algebra-2",
+      "department": "Mathematics",
+      "term": "Yearlong",
+      "brief_description": "Expands understanding of topics explored in Algebra 1 and Geometry",
+      "description": "Algebra 2 deepens and expands understanding of topics explored in Algebra 1 and Geometry, and introduces advanced topics that include: function notation, function transformations, arithmetic and geometric sequences, inverse functions, and exponential and logarithmic functions. A variety of approaches to problem-solving is encouraged with an emphasis on mathematical thinking practices. The course is centered on collaborative student exploration, discovery, and gradual development of understanding, using materials written specifically for this class. Students who successfully complete this course move on to Precalculus or Statistics. Prerequisites: Algebra 1 and Inductive or Deductive Geometry This is a yearlong course and is UC approved.",
+      "prerequisites": "Algebra 1 and Inductive or Deductive Geometry",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Yearlong"
+      ]
+    },
+    {
+      "id": 556,
+      "title": "Calculus",
+      "slug": "mathematics-courses/post/calculus-1745266801616",
+      "department": "Mathematics",
+      "term": "Yearlong",
+      "brief_description": "The fundamental concepts and techniques of differential and integral calculus",
+      "description": "This course explores the fundamental concepts and techniques of differential and integral calculus—the mathematics of change.  This course will follow a traditional sequence of topics, starting in the fall with limits and then studying the derivative and applications of the derivative.  The spring is a complete examination and analysis of the integral, starting with investigations using motion as a framework. The crux of the spring semester will be formalizing the Fundamental Theorem of Calculus and then applying it in different contexts, such as area and volume. One  cornerstone of this course is learning through extensive “lab” investigations. Prerequisites: Precalculus with a second semester grade of at least B-, strong algebraic preparation, and department recommendation. This is a yearlong course and is UC approved.",
+      "prerequisites": "Precalculus with a second semester grade of at least B-, strong algebraic preparation, and department recommendation.",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Yearlong"
+      ]
+    },
+    {
+      "id": 133,
+      "title": "Deductive Geometry",
+      "slug": "mathematics-courses/post/deductive-geometry-mathematics-courses",
+      "department": "Mathematics",
+      "term": "Yearlong",
+      "brief_description": "Deductive approach and formal study of geometric concepts pioneered by Euclid",
+      "description": "This course is a traditional geometry course that follows the deductive approach and formal study of geometric concepts pioneered by Euclid. Students begin with an introduction to logic and proceed to prove many of the classical theorems of Euclidean geometry and apply these ideas to challenging problems. Additional topics include quadratic expressions and equations, systems of linear equations, and right triangle trigonometry. Students will engage in solving interesting and meaningful problems while practicing school-wide habits of mind and mathematical thinking practices. Prerequisites: Algebra 1 at LWHS with department recommendation, or department recommendation (incoming 9th graders). This is a yearlong course and is UC approved.",
+      "prerequisites": "Algebra 1 at LWHS with department recommendation, or department recommendation (incoming 9th graders).",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Yearlong"
+      ]
+    },
+    {
+      "id": 131,
+      "title": "Honors Calculus",
+      "slug": "mathematics-courses/post/calculus-honors-mathematics-courses",
+      "department": "Mathematics",
+      "term": "Yearlong",
+      "brief_description": "The foundational concepts of Calculus and the Fundamental Theorem of Calculus and series",
+      "description": "The course is structured around big ideas corresponding to the foundational concepts of Calculus: limits, derivatives, integrals and the Fundamental Theorem of Calculus, and series. Students will use Mathematical Practices and Habits of Mind in their study to establish mathematical lines of reasoning and to apply mathematical concepts and tools to solve problems. These Mathematical Practices include reasoning with definitions and theorems, connecting concepts, implementing algebraic/computational processes, connecting multiple representations, building notational fluency, and strengthening mathematical discourse. Precalculus or Precalculus Honors, and department recommendation. Students coming from Precalculus will need to do additional study during the preceding summer and take a LWHS placement exam to determine final placement. This is a yearlong course and is UC approved.",
+      "prerequisites": "",
+      "uc_approved": true,
+      "honors": true,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Yearlong"
+      ]
+    },
+    {
+      "id": 135,
+      "title": "Honors Multivariable Calculus",
+      "slug": "mathematics-courses/post/multivariable-calculus-mathematics-calculus",
+      "department": "Mathematics",
+      "term": "Yearlong",
+      "brief_description": "Vector and Multivariable Calculus",
+      "description": "This course covers vector and multivariable calculus. Topics include vectors and vector-valued functions, curves and surfaces in space, partial derivatives and gradients, multiple integration, and line and surface integrals. Throughout the course, students will use Mathematical Practices and Habits of Mind to establish mathematical lines of reasoning and to apply mathematical concepts and tools to solve problems. These Mathematical Practices include reasoning with definitions and theorems, connecting concepts, implementing algebraic/computational processes, connecting multiple representations, building notational fluency, and strengthening mathematical discourse. Prerequisites: Calculus (regular or honors) and department recommendation. Students coming from Calculus will need to do additional study during the preceding summer and take an LWHS placement exam to determine final placement. This course is offered yearlong and is UC approved.",
+      "prerequisites": "Calculus (regular or honors) and department recommendation. Students coming from Calculus will need to do additional study during the preceding summer and take an LWHS placement exam to determine final placement.",
+      "uc_approved": true,
+      "honors": true,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Yearlong"
+      ]
+    },
+    {
+      "id": 137,
+      "title": "Honors Precalculus",
+      "slug": "mathematics-courses/post/precalculus-honors-mathematics-courses",
+      "department": "Mathematics",
+      "term": "Yearlong",
+      "brief_description": "Trigonometry, exponential and logarithmic functions, polar coordinates, parametric equations, and beyond",
+      "description": "Honors Precalculus explores functions and relations in greater depth. This includes the study of trigonometry, exponential and logarithmic functions, polar coordinates, parametric equations, and complex numbers. Students are expected to regularly work on non-routine problems by applying and building upon the content taught in previous math courses. Continuous review and problem solving are at the heart of the course, helping students to independently discover connections between new and old concepts.  Precalculus Honors also places emphasis on the modeling process in order to prompt students to make connections between theoretical mathematics and real world applications.  Prerequisites: Algebra 2 (regular or accelerated) and department recommendation. Students coming from Algebra 2 will need to do additional study during the preceding summer and take an LWHS placement exam to determine final placement. This course is offered yearlong and is UC approved.",
+      "prerequisites": "Algebra 2 (regular or accelerated) and department recommendation. Students coming from Algebra 2 will need to do additional study during the preceding summer and take an LWHS placement exam to determine final placement.",
+      "uc_approved": true,
+      "honors": true,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Yearlong"
+      ]
+    },
+    {
+      "id": 138,
+      "title": "Honors Statistics and Data Science PPP",
+      "slug": "mathematics-courses/post/statistics-honors-ppp-mathematics-courses",
+      "department": "Mathematics",
+      "term": "Yearlong; PPP",
+      "brief_description": "Draw meaningful conclusions from data",
+      "description": "This course develops students into ethical and competent consumers and producers of statistics by teaching them to draw meaningful conclusions from data. The first semester focuses on descriptive statistics and the question, What stories do the data tell? Students analyze one- and two-variable data using graphical and numerical methods, supported by technology and data science tools. The second semester shifts to inferential statistics, guided by the questions, Should I be surprised? and Is the difference meaningful? Topics include probability, random variables, and statistical significance testing. A Public Purpose Program project is integrated throughout the course. Prerequisites: Algebra 2 and department recommendation. This yearlong course fulfills the Public Purpose Program requirement for juniors and seniors. It is a UC approved course.",
+      "prerequisites": "Algebra 2 and department recommendation.",
+      "uc_approved": true,
+      "honors": true,
+      "g_course": false,
+      "ppp": true,
+      "grade_requirements": [
+        "Junior/Senior"
+      ],
+      "tags": [
+        "Yearlong",
+        "PPP",
+        "Junior/Senior"
+      ]
+    },
+    {
+      "id": 165,
+      "title": "Acting",
+      "slug": "performing-arts-courses/post/acting-performing-arts-courses",
+      "department": "Performing Arts",
+      "term": "Yearlong",
+      "brief_description": "Theatre&nbsp;games, script and character analysis, and devised theatre",
+      "description": "Acting, an enjoyable and accessible art form, is a foundational drama course that empowers students to express themselves through theatrical performance. The course equips students with core competencies in voice, movement, and character analysis, fostering their imagination and enabling them to perform with clarity and emotional depth. Through scene study and improvisation, students engage in both group and solo acting projects, enhancing their craft. The course objectives are twofold: to foster student engagement in creative play and imagination, and to provide individualized actor coaching. Additionally, students develop valuable life skills such as public speaking, risk-taking, and problem-solving. In the second semester, students delve into in-depth scenework, docudrama, devised theatre, and Theatre Activism, further enriching their acting experience. Prerequisite: None. Open to all grades. This course is offered yearlong and is UC approved.",
+      "prerequisites": "None. Open to all grades.",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Yearlong"
+      ]
+    },
+    {
+      "id": 166,
+      "title": "Advanced Creative Projects in Music Production",
+      "slug": "performing-arts-courses/post/advanced-creative-projects-in-music-production-performing-arts-courses",
+      "department": "Performing Arts",
+      "term": "Fall 2026; Spring 2027",
+      "brief_description": "Music production, sound design and composition",
+      "description": "This course builds upon the skills learned in Creative Projects in Music Production.  Students will work with Logic Pro and advanced plug-ins to create music tracks using MIDI, samples, and recorded audio.  Guest speakers will present on related topics in music production, sound design and composition. Students will design and execute their own digital music projects.  Prerequisite: Creative Projects in Music Production This semester long course is offered in both Fall 2026 and Spring 2027 and is UC approved.",
+      "prerequisites": "Creative Projects in Music Production",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Fall 2026",
+        "Spring 2027"
+      ]
+    },
+    {
+      "id": 167,
+      "title": "Advanced Jazz & Contemporary Music Ensemble PPP",
+      "slug": "performing-arts-courses/post/advanced-jazz-contemporary-music-ensemble-ppp-performing-arts-courses",
+      "department": "Performing Arts",
+      "term": "Yearlong; PPP",
+      "brief_description": "Advanced ensemble performance, leadership, and musicianship",
+      "description": "The Advanced Jazz & Contemporary Music Ensemble is the upper level contemporary music course at LWHS. Geared toward musicians in grades 11–12, students are required to possess advanced proficiency of their instruments and have a strong foundation in music fundamentals. Students must demonstrate self discipline and maturity to participate in and lead project-based activities, public service projects, peer tutoring, and public speaking. Students in the course will work in both large and small ensemble configurations to develop ensemble and improvisational technique. The course emphasizes developing repertoire for concert and community service performances. Additionally students will cultivate outreach opportunities, and mentor beginning musicians from within and/or beyond the school. Students will hone their musicianship and performance experience through course rehearsals and participation in appropriate concerts and festivals. Applicable music theory and analysis is also a component of the course. Students will be assigned to varying sized combos to study and prepare a variety of stylistically appropriate music for public performance. Prerequisite: Three years of playing experience. One year in another LWHS ensemble (or the equivalent) and a successful placement audition/interview. Admission in one academic year does not guarantee placement in subsequent years. Participation in both the Fall and Spring Jazz Concerts and corresponding tech week rehearsals are mandatory for the course.  This yearlong course is UC approved and fulfills the Public Purpose Program requirement for juniors and seniors.",
+      "prerequisites": "Three years of playing experience. One year in another LWHS ensemble (or the equivalent) and a successful placement audition/interview. Admission in one academic year does not guarantee placement in subsequent years.",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": true,
+      "grade_requirements": [
+        "Junior/Senior"
+      ],
+      "tags": [
+        "Yearlong",
+        "PPP",
+        "Junior/Senior"
+      ]
+    },
+    {
+      "id": 168,
+      "title": "Advanced Stagecraft PPP",
+      "slug": "performing-arts-courses/post/advanced-stagecraft-performing-arts-courses",
+      "department": "Performing Arts",
+      "term": "Fall 2026; Spring 2027",
+      "brief_description": "Design scenery, lights, sound, and costumes for school productions and partner organizations",
+      "description": "This class is for students who want to increase their skills in stagecraft and production work and continue their involvement in LWHS performances. Advanced Stagecraft students will lead the design of scenery, lights, sound, or costumes for department productions. This class is offered simultaneously with Stagecraft. Advanced Stagecraft students will be expected to take on leadership roles in the class, guiding building projects and stage crews. Students will work closely with our outside partner organizations designing and building projects for their performances. Prerequisite: Stagecraft This semester course is offered both in Fall 2026 and Spring 2027 and fulfills the Public Purpose Program requirement for juniors and seniors. It is a UC approved course.",
+      "prerequisites": "Stagecraft",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": true,
+      "grade_requirements": [
+        "Junior/Senior"
+      ],
+      "tags": [
+        "Fall 2026",
+        "Spring 2027",
+        "Junior/Senior"
+      ]
+    },
+    {
+      "id": 169,
+      "title": "Chamber Orchestra PPP",
+      "slug": "performing-arts-courses/post/chamber-orchestra-ppp-performing-arts-courses",
+      "department": "Performing Arts",
+      "term": "Yearlong; PPP",
+      "brief_description": "Intermediate-to-advanced orchestra, technique, and outreach",
+      "description": "Chamber Orchestra is for intermediate to advanced string, woodwind, brass, piano, and percussion instrumentalists. Repertoire is drawn from orchestral and chamber music literature of the western classical tradition, orchestral pops, as well as through creative explorations and adaptations of new music. Additionally, the ensemble engages guest composers to create works for the course. Emphasis is on ensemble playing, refining instrumental technique, and building musicianship. Listening activities and applicable music theory assignments are included in the coursework. Students are expected to practice at home and are encouraged to study their instruments privately when possible. The department owns many school instruments that are available for student use. Students will fulfill their PPP requirement through the planning and implementation of community outreach performances, exploring arts advocacy, arts equity, and peer mentoring. Prerequisite: One year of ensemble experience, intermediate music reading proficiency, and a successful placement audition. Participation in one academic year does not guarantee placement in subsequent years. Participation in both the Fall and Spring Chamber Orchestra Concerts and corresponding tech week rehearsals is mandatory for this course.  This yearlong course is UC approved and fulfills the Public Purpose Program requirement for juniors and seniors.",
+      "prerequisites": "One year of ensemble experience, intermediate music reading proficiency, and a successful placement audition. Participation in one academic year does not guarantee placement in subsequent years.",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": true,
+      "grade_requirements": [
+        "Junior/Senior"
+      ],
+      "tags": [
+        "Yearlong",
+        "PPP",
+        "Junior/Senior"
+      ]
+    },
+    {
+      "id": 170,
+      "title": "Creative Projects in Music Production",
+      "slug": "performing-arts-courses/post/creative-projects-in-music-production-performing-arts-courses",
+      "department": "Performing Arts",
+      "term": "Fall 2026; Spring 2027",
+      "brief_description": "The fundamentals of music technology",
+      "description": "This course offers the perfect approach for students with a passion for music outside of traditional school music offerings. It will survey the fundamentals of music technology, including multitrack music production using a digital audio workstation (DAW), MIDI, recording, and basic principles of sound and digital audio technology.  Introductory topics include studio setup, how to write and record tracks for instruments using a MIDI sequencer, basic music editing and arrangement using music sequencing software, effects and plugins, and how to record live sounds. Guest speakers will present on related topics in music production, sound design and composition. Students will design and execute their own digital music projects. Prerequisite: None. Open to all grades.  This semester long course is offered in both Fall 2026 and Spring 2027 and is UC approved.",
+      "prerequisites": "None. Open to all grades. ",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Fall 2026",
+        "Spring 2027"
+      ]
+    },
+    {
+      "id": 171,
+      "title": "Dance 1",
+      "slug": "performing-arts-courses/post/dance-1-performing-arts-courses",
+      "department": "Performing Arts",
+      "term": "Fall 2026; Spring 2027",
+      "brief_description": "Dance foundations, technique, and creative expression",
+      "description": "Dance 1 introduces students to the principles of dance to create a foundation for technically based and kinesthetically sound movement. Students will experience a diverse scope of techniques, including modern, jazz, ballet, contemporary, and cultural dance styles. Students will explore movement concepts using space, time, and energy that will eventually lead to performance. Students will have a broad range of opportunities to develop their appreciation for dance as an art form through historical, cultural, and social contexts. Prerequisite: None   This semester long course is offered in both Fall 2026 and Spring 2027 and is UC approved.",
+      "prerequisites": "None",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Fall 2026",
+        "Spring 2027"
+      ]
+    },
+    {
+      "id": 172,
+      "title": "Dance 2",
+      "slug": "performing-arts-courses/post/dance-2-performing-arts-courses",
+      "department": "Performing Arts",
+      "term": "Fall 2026; Spring 2027",
+      "brief_description": "Expanding technique, choreography, and creative movement",
+      "description": "Building on the foundational movement and choreography skills developed in Dance 1, Dance 2 is designed to expand students' movement vocabulary and further activate their creative voice.  Students will begin to develop their own creative process and movement preferences.  They will be introduced to concepts of choreography and composition through the works of traditional and contemporary  choreographers.  Students will explore movement concepts using space, time and energy that will eventually lead to performance.  They will have a broad range of opportunities to develop their appreciation for dance as an artform through historical, cultural and social contexts through unique experiences and cultivated collaborative inquiry. Prerequisite: Dance 1 This semester long course is offered in both Fall 2026 and Spring 2027 and is UC approved.",
+      "prerequisites": "Dance 1",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Fall 2026",
+        "Spring 2027"
+      ]
+    },
+    {
+      "id": 173,
+      "title": "Dance Ensemble PPP",
+      "slug": "performing-arts-courses/post/dance-ensemble-ppp-performing-arts-courses",
+      "department": "Performing Arts",
+      "term": "Yearlong; PPP",
+      "brief_description": "Advanced dance technique, creativity, and service",
+      "description": "This class provides students with continued development and practice in the principles of technique and movement through diverse genres and styles of dance. Students will experiment with choreographic premises and apply them to their own movement preferences. This course further develops the technical foundation in all dance genres and encourages students to create and innovate their own original work. Students will continue to establish their creative process from start to stage, including dance production and dance on film. Students will have opportunities to collaborate and work with guest teachers, choreographers, and students in a variety of electives. This course builds upon the foundation established in Dance 1 and Dance 2, as students expand their depth of knowledge of dance as an art form with a continued appreciation for historical, cultural, and social contexts in their everyday lives. The PPP component includes continued work with our partnership organization. This will include raising funds and collecting items through dance performances, volunteering at organization events, and creating outreach opportunities in collaboration with different community populations.  Prerequisite: Dance 1 and Dance 2 This yearlong course is UC approved and fulfills the Public Purpose Program requirement for juniors and seniors.",
+      "prerequisites": "Dance 1 and Dance 2",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": true,
+      "grade_requirements": [
+        "Junior/Senior"
+      ],
+      "tags": [
+        "Yearlong",
+        "PPP",
+        "Junior/Senior"
+      ]
+    },
+    {
+      "id": 117,
+      "title": "Biology",
+      "slug": "science-courses/post/biology",
+      "department": "Science",
+      "term": "Yearlong",
+      "brief_description": "The study of life, from the molecular level to entire ecosystems",
+      "description": "Biology explores life at every level, from molecules to entire ecosystems. This survey course emphasizes the unifying themes of evolution and the interconnectedness of life. Students actively examine the moral and social implications of scientific issues while engaging with topics such as ecology, evolution, genetics, and reproduction. The course highlights social and environmental justice, fostering inquiry and interpretation. Concepts come to life through laboratory experiments, simulations, discussions, and collaborative projects. Questions, examples, analogies, and real-world applications reinforce learning throughout the course. This is a yearlong course and is UC approved.",
+      "prerequisites": "",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [
+        "Frosh Requirement"
+      ],
+      "tags": [
+        "Yearlong",
+        "Frosh Requirement"
+      ]
+    },
+    {
+      "id": 120,
+      "title": "Chemistry",
+      "slug": "science-courses/post/chemistry-science-courses",
+      "department": "Science",
+      "term": "Yearlong",
+      "brief_description": "An exploration of the properties and transformations of matter",
+      "description": "In Chemistry, students explore the properties and transformations of matter. Through frequent demonstrations, laboratory experiments, interactive group discussions, and collaboration with peers, students learn the principles that underlie chemical change and learn to cultivate an attitude of inquiry about the chemical phenomena they experience in the world around them. Emphasis is placed on developing the skills necessary to design and conduct meaningful scientific investigations, interpret data, and clearly communicate the results. Students’ learning over the year culminates in a collaborative student-designed research project in which they learn to identify credible scientific sources in the media and create laboratory experiments that explore a topic connected to the well-being of our planet and its inhabitants. The process and results of students’ projects are shared and celebrated during a community-wide symposium held in May, and students reflect on the ways in which they can leverage their scientific literacy for positive change.   Prerequisite: One year of high school (9th grade) science. This is a yearlong course and is UC approved.",
+      "prerequisites": "One year of high school (9th grade) science.",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Yearlong"
+      ]
+    },
+    {
+      "id": 123,
+      "title": "Ethics in the Sciences and Technology",
+      "slug": "science-courses/post/ethics-in-the-sciences-and-technology-science-courses",
+      "department": "Science",
+      "term": "Fall 2026; Spring 2027",
+      "brief_description": "Moral questions that come up in the sciences and technology",
+      "description": "This interdisciplinary course will begin with an introduction to philosophy and great thinkers throughout history. We will then focus on ethics, particularly the thorny moral questions that come up in the sciences and technology—How can we allocate scarce organs to those waiting on a transplant list in a ‘fair’ way? Should it be allowable to ‘design’ many of the traits of a baby? Are the risks of a driverless car morally acceptable, and if so, how should driverless cars be programmed in an imminent crash? Should the atomic bomb have been made- and are there limits on using science to make weapons or other products that can cause harm? The course will invite introspection and a solution-oriented mindset. We will be learning some psychology about ourselves and our moral development, our implicit ways of figuring out right and wrong. We will evaluate what ethical systems we might reject, and what we might create in their place. How might our life experiences, debates, and discussions with our peers compel us to question our own beliefs? In the process, we will build skills in reasoning, speaking persuasively, and listening with an open, flexible mind in order to engage constructively around life’s biggest questions. Essential Questions: Just because we have the scientific ability to do something, does that always mean we should? How can examining our ethical thinking help us to lead lives of consequence and fulfillment? Prerequisites: Open to juniors and seniors.  This semester long course is offered in both Fall 2026 and Spring 2027 and is UC approved.",
+      "prerequisites": "Open to juniors and seniors. ",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [
+        "Junior/Senior"
+      ],
+      "tags": [
+        "Fall 2026",
+        "Spring 2027",
+        "Junior/Senior"
+      ]
+    },
+    {
+      "id": 124,
+      "title": "Honors Biology: Behavioral Genetics and Anthropology",
+      "slug": "science-courses/post/honors-biology-behavioral-genetics-and-anthropology-science-courses",
+      "department": "Science",
+      "term": "Yearlong",
+      "brief_description": "Genetic components that contribute&nbsp;to human evolution and behavior",
+      "description": "Behavioral Genetics and Anthropology is a yearlong honors biological anthropology lab course that focuses on the connection between evolutionary biology, genetics, and the wide range of traits influenced by gene-culture interactions in humans. We start with an introductory unit in anthropological methodology and evolutionary theory. We consider genes as a unit of natural selection and investigate genetic components contributing to human evolution and behavior.    We will explore the study of human behaviors, including but not limited to:  Compassion, competition, collaboration, altruism Gene culture coevolution  Sex and reproduction, sociosexual behavior Individual and collective violence  Symbolic behavior  Tools and technology  We will also look at the recent analysis of the human genome and genetic components that connect to complex human behaviors that impact modern culture and society. This is an interdisciplinary lab science course, meaning each unit will have a lab and/or fieldwork component. Projects will include hands-on, 3D anatomical replicas, conducting interviews and field work, and independent research on a specific human trait with a culminating final presentation. A question we will consider throughout this course is, “What, if anything, makes humans unique?” Note: May be taken in conjunction with Molecular Genetics.   Prerequisite: Two years of high school (9th and 10th grade) science. This is a yearlong course and is UC aproved.",
+      "prerequisites": "Two years of high school (9th and 10th grade) science.",
+      "uc_approved": false,
+      "honors": true,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [
+        "Sophomore"
+      ],
+      "tags": [
+        "Yearlong",
+        "Sophomore"
+      ]
+    },
+    {
+      "id": 118,
+      "title": "Honors Biology: Marine Ecology: Field and Lab Science PPP",
+      "slug": "science-courses/post/biology-honors-marine-ecology-field-and-lab-science-ppp-science-courses",
+      "department": "Science",
+      "term": "Yearlong; PPP",
+      "brief_description": "Appreciation, preservation, and protection of marine habitats",
+      "description": "The world's oceans cover over 70% of the Earth's surface and are integrally tied to the health of the planet. A deep understanding of marine ecology is critical for the appreciation, preservation, and protection of marine habitats. Marine Ecology is a yearlong advanced interdisciplinary science course that uses the Bay Area as a classroom. The course will include required field trips during non-school hours. Students will be expected to meet at various locations in the Bay Area for our fieldwork and field trips (rain or shine)—planning and organization are essential skills for those taking this course. Students should expect to attend 1-2 field trips per month. Over the course of the year, students will grow to understand the physical and chemical characteristics of marine ecological zones and investigate the anatomy, behavior, and evolutionary adaptations of a variety of life. Students will investigate a broad range of current conservation concerns with an emphasis on climate change and science communication. Laboratory activities include dissection, live organism exploration, data collection, guest lectures, and microscope work. Field experiences include gathering data at the beach and intertidal zone for several community/citizen science projects, teaching elementary students, coastal cleanup day, murals exploration, seafood processing facility, and more depending on availability each year. Public purpose is woven into the curriculum of this course through collecting baseline data, science communication and outreach, public events, and learning about the thoughtful work of those in the community.  Prerequisites: Two years of high school (9th and 10th grade) science.  Students interested in Marine Ecology must complete this interest form. This UC approved course is offered yearlong and fulfills the Public Purpose Program requirement for juniors and seniors.",
+      "prerequisites": "Two years of high school (9th and 10th grade) science. ",
+      "uc_approved": true,
+      "honors": true,
+      "g_course": false,
+      "ppp": true,
+      "grade_requirements": [
+        "Junior/Senior",
+        "Sophomore"
+      ],
+      "tags": [
+        "Yearlong",
+        "PPP",
+        "Junior/Senior",
+        "Sophomore"
+      ]
+    },
+    {
+      "id": 119,
+      "title": "Honors Biology: Molecular Genetics",
+      "slug": "science-courses/post/biology-honors-molecular-genetics-science-courses",
+      "department": "Science",
+      "term": "Yearlong",
+      "brief_description": "The core concepts of molecular biology and common biotechnology techniques",
+      "description": "This course allows students to engage in meaningful, hands-on laboratory experiences while exploring the core concepts of molecular biology and common biotechnology techniques. Through inquiry-based learning, labs, and student-directed projects, students will develop a deep understanding of the central dogma of biology by studying DNA, RNA, proteins, and the methods scientists use to investigate molecular biology. Students will gain practical experience with essential lab techniques, including gel electrophoresis, PCR DNA amplification, PAGE, protein chromatography, and CRISPR. Additionally, they will explore the role of epigenetics in gene expression and analyze the ethical implications of genetic technology in medicine and the biotech industry. A strong emphasis will be placed on responsible academic research practices, data analysis, and the integration of mathematical skills to interpret experimental results. Throughout the course, students will be challenged to think critically about modern scientific advancements and their societal impact. Students will participate in ongoing lab work that requires attention to detail, problem-solving, and collaboration. This course is designed for a broad range of students, whether they are considering a future in science or simply have a curiosity about biology at the cellular and molecular level. Prerequisites: Two years of high school (9th and 10th grade) science. This is a yearlong course and is UC approved.",
+      "prerequisites": "Two years of high school (9th and 10th grade) science.",
+      "uc_approved": true,
+      "honors": true,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [
+        "Sophomore"
+      ],
+      "tags": [
+        "Yearlong",
+        "Sophomore"
+      ]
+    },
+    {
+      "id": 743,
+      "title": "Honors Biology: Neuroscience and Psychology: Brain and Behavior",
+      "slug": "science-courses/post/honors-biology-neuroscience-and-psychology-brain-and-behavior",
+      "department": "Science",
+      "term": "Yearlong",
+      "brief_description": "Exploring human behavior, mind, and development",
+      "description": "Using multiple perspectives, students will look at human behavior from the biological, cognitive, behavioral, psychodynamic, humanistic, social, and sociocultural points of view. An emphasis is put on how the physical brain, the environment, and human behavior continually interact and influence each other. Students examine readings and research on learning, social interactions, memory, thinking, psychological disorders, and cognitive development. Genetic and environmental factors underlying development and attachment are also considered.The hands-on portion of the course will include exploration of the human brain, neuroscience activities; social and developmental psychology observational labs; stress physiology experiments and more.   The course is an invitation for introspection and expression as students agree, disagree, and take what is helpful to them and make it their own. There is an emphasis on multiple ways of engaging with the material. Individual projects provide the opportunity for students to explore topics of their choice in more depth. Prerequisites: Two years of high school (9th and 10th grade) science. This course is offered yearlong and is UC approved.",
+      "prerequisites": "Two years of high school (9th and 10th grade) science.",
+      "uc_approved": true,
+      "honors": true,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [
+        "Sophomore"
+      ],
+      "tags": [
+        "Yearlong",
+        "Sophomore"
+      ]
+    },
+    {
+      "id": 548,
+      "title": "Honors Biology: Science Research Fly Sci PPP",
+      "slug": "science-courses/post/psychology-brain-and-behavior-ppp-1743115897871",
+      "department": "Science",
+      "term": "Yearlong; PPP",
+      "brief_description": "Genetic research, molecular biology techniques, model organisms",
+      "description": "This year-long, hands-on research course offers students the opportunity to contribute to real-world biomedical research in collaboration with Stanford University. Using Drosophila melanogaster (fruit fly) as a model organism, students will explore genetic research, molecular biology techniques, and the role of model organisms in biomedical science. Students will learn to maintain, characterize, and cross fruit fly strains. Students will also apply essential molecular biology techniques, including DNA extraction, PCR, and gel electrophoresis, to analyze genetic modifications.  The goal of this course is to create a genetically unique fly line using the StanX P-element, SX4. If successfully created, these genetically unique flies will be incorporated into a research repository, providing valuable resources for scientists studying diseases. Students will have the opportunity to present their work at an annual conference at Stanford and may even contribute to a peer-reviewed scientific publication. This course is ideal for students with a strong interest in biology, genetics, and research. This course is designed to be a PPP course, as we will be collaborating with Stanford and potentially establishing a stable line of flies to be used for public research, which will be housed at the University of Indiana in Bloomington. Students will be required to attend a spring conference at Stanford to share their findings. Additionally, due to the nature of this class and the upkeep of living organisms, there will be additional requirements to come in on “non-class” days to successfully maintain, characterize, and cross flies.  Prerequisites: Two years of high school (9th and 10th grade) science. Highly recommend that you have a B+ (or higher) grades from both biology and chemistry. Attendance at a Spring 2026 pre-meeting during tutorial on Monday, April 20th 2026, with Ms. Wilkinson, will be mandatory if you are considering this course. This course is offered yearlong and fulfills the Public Purpose Program requirement for juniors and seniors. UC approval is pending.",
+      "prerequisites": "Two years of high school (9th and 10th grade) science. Highly recommend that you have a B+ (or higher) grades from both biology and chemistry.",
+      "uc_approved": false,
+      "honors": true,
+      "g_course": false,
+      "ppp": true,
+      "grade_requirements": [
+        "Junior/Senior",
+        "Sophomore"
+      ],
+      "tags": [
+        "Yearlong",
+        "PPP",
+        "Junior/Senior",
+        "Sophomore"
+      ]
+    },
+    {
+      "id": 121,
+      "title": "Honors Chemistry",
+      "slug": "science-courses/post/chemistry-honors-science-courses",
+      "department": "Science",
+      "term": "Yearlong",
+      "brief_description": "An&nbsp;investigation&nbsp;of the properties of acid/base, electrochemical, precipitate, and equilibrium reactions",
+      "description": "Chemistry Honors expands on the foundational knowledge developed in the 10th grade chemistry course by investigating the properties of acid/base, electrochemical, precipitate, and equilibrium reactions. Students will examine these reactions from both a qualitative and quantitative perspective, including the kinetics and thermodynamics of their behaviors. Emphasis is placed on understanding how bonding and molecular architecture affect chemical properties, conducting rigorous experimental analysis, and synthesizing skills from all areas of the course to address complex problems. Through frequent exploration of the connections between class material, current research, and societal challenges, students also develop proficiency in applying their knowledge to better understand the pressing issues and promises of our time. Prerequisites: Two years of high school (9th and 10th grade) science. This is a yearlong course and is UC approved.",
+      "prerequisites": "Two years of high school (9th and 10th grade) science.",
+      "uc_approved": true,
+      "honors": true,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [
+        "Sophomore"
+      ],
+      "tags": [
+        "Yearlong",
+        "Sophomore"
+      ]
+    },
+    {
+      "id": 141,
+      "title": "Teaching Assistant",
+      "slug": "teaching-assistantships-courses/post/teaching-assistant-teaching-assistantships-courses",
+      "department": "Teaching Assistantships",
+      "term": "",
+      "brief_description": "",
+      "description": "Juniors and seniors may serve as a Teaching Assistant (TA) in a class that they have previously taken with success. In most cases, TA’s are assigned to a specific class section, are expected to attend all class meetings, and are included in the class roll. Additionally, they should meet once a rotation outside of class with their supervising faculty member. Alternatively, in the case of science, TA’s who assist with lab preparation may meet regularly with a faculty member during a shared free block. All TA’s receive academic credit, and therefore their work should not be restricted to such tasks as photocopying and filing. Rather, they should be exposed to what it means to be a teacher through meaningful activities, such as lesson planning, testing labs, and creating evaluations; in other words, it is expected that all TA’s will have the opportunity to teach. Additionally, all TA’s are expected to produce a thoughtful reflection of their work (e.g. a portfolio, writeup of a new lab design, or conference presentation). Students may hold only one TA position per semester, and it will count as a seventh course, but not as one of a student’s six required courses. Teachers may have only one TA per class, and all TA’s are graded pass/fail. Prerequisite: TA's must have taken the course for which they will serve.",
+      "prerequisites": "TA's must have taken the course for which they will serve.",
+      "uc_approved": false,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [
+        "Junior/Senior"
+      ],
+      "tags": [
+        "Junior/Senior"
+      ]
+    },
+    {
+      "id": 142,
+      "title": "Teaching Assistant Tech Arts PPP",
+      "slug": "teaching-assistantships-courses/post/teaching-assistant-tech-arts-ppp-teaching-assistantships-courses",
+      "department": "Teaching Assistantships",
+      "term": "",
+      "brief_description": "",
+      "description": "This course will have students apply the combined skills learned in previous Technical Arts classes with new skills focused on leadership. The faculty member will act as a mentor and coach, introducing material so that the student leader can better understand cultural competency, equitable pedagogical practices, and their impact on the learning environment. These learning strategies will then be applied and focus on four main areas on a daily basis—teaching, community, machine maintenance/class prep, and reflection. Note: This class does not fulfill the technical arts graduation requirement and PPP credit can only be given for participation Private Skills for a Public Purpose class. Prerequisites: Design & Technology along with one semester of the class for which you will be the teaching assistant. This semester long course offered in both Fall 2021 and Spring 2022 fulfills the Public Purpose Program requirement for juniors and seniors.",
+      "prerequisites": "Design & Technology along with one semester of the class for which you will be the teaching assistant.",
+      "uc_approved": false,
+      "honors": false,
+      "g_course": false,
+      "ppp": true,
+      "grade_requirements": [
+        "Junior/Senior"
+      ],
+      "tags": [
+        "Junior/Senior"
+      ]
+    },
+    {
+      "id": 400,
+      "title": "Teaching Assistantship Tech Arts",
+      "slug": "teaching-assistantships-courses/post/teaching-assistantship-tech-arts-1713302160490",
+      "department": "Teaching Assistantships",
+      "term": "Fall 2024; Spring 2025",
+      "brief_description": "",
+      "description": "Tech Arts teaching assistants play a vital role in helping us produce better projects and a safer environment. This is a leadership role in which you will have to share what you know, learn more about the processes you are assisting with, and seek the most effective ways to support current student projects and classroom learning. It’s a challenging, rewarding, and essential role in the Tech Arts. To become a Teaching Assistant, you must 1.have completed Design and Technology and two other shop classes. 2.In those classes, you should have shown proficiency and a commitment to safe working practices in the shops. 3.check with the instructor verbally or electronically before moving forward in the process. 4.create a written proposal outlining how you hope to be helpful in the classroom and what you hope to learn from the experience. The TA form is signed by the teacher, the department chair, and the participating instructor. Form submission is to the scheduler during course signups. No more than two students can TA per Technical Arts section. This class does not count toward your Technical Art graduation requirement and is graded as pass/fail. Prerequisite: Design & Technology and two other shop classes. This course is offered both in Fall 2024 and Spring 2025 and is UC approved.",
+      "prerequisites": " Design & Technology and two other shop classes.",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Fall 2024",
+        "Spring 2025"
+      ]
+    },
+    {
+      "id": 183,
+      "title": "3D-Printing and Parametric Design",
+      "slug": "technical-arts-courses/post/3d-printing-and-parametric-design-technical-arts-courses",
+      "department": "Technical Arts",
+      "term": "Fall 2026; Spring 2027",
+      "brief_description": "The dynamic realm of parametric design",
+      "description": "This hands-on course introduces students to parametric design and how it connects to 3D printing and CNC machines. Students learn to use Grasshopper, a parametric design tool, to create flexible, customizable designs that can be digitally modeled and then physically built. Throughout the course, students work with a range of materials—such as wood, plastic, and metal—to bring their ideas to life. Projects may include items like holders, jewelry, or modular components, giving students a hands-on way to explore how parametric design shapes both appearance and functionality. In addition to making, students explore how digital fabrication is changing the design world and shaping future careers. By blending creativity, technology, and problem-solving, this course prepares students to confidently work with modern tools and techniques used in today’s design and fabrication industries. This class meets the Tech Arts &quot;Design & Engineering&quot; category requirement. Prerequisite: Design & Technology This course is offered in both Fall 2026 and Spring 2027 and is UC approved.",
+      "prerequisites": "Design & Technology",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Fall 2026",
+        "Spring 2027"
+      ]
+    },
+    {
+      "id": 184,
+      "title": "Circuits and Electronics: Analog and Digital",
+      "slug": "technical-arts-courses/post/circuits-and-electronics-analog-and-digital-technical-arts-courses",
+      "department": "Technical Arts",
+      "term": "Fall 2026",
+      "brief_description": "Circuit design and assembly",
+      "description": "This class jumps in where the Design and Technology class left off, starting with building basic circuits and moving into designing your own custom printed circuit boards. Whether or not you think of yourself as an aspiring electrical engineer, this course will invite you to work collaboratively to learn electronics, followed by some guided design time to develop a head-turning design that will make your amplifier circuit look and sound amazing. But we don't stop there; we also jump into some microcontroller programming so you can add some digital features to your project, like music-reactive lights, a local sensor, or a live data display. What You'll Learn: Basics of circuit design and assembly. Custom printed circuit board (PCB) design. Create a functional set of Bluetooth speakers with an eye-catching design. Microcontroller programming for digital features like music-reactive lights. Project management and collaborative design techniques. Develop skills in technical problem-solving and resourcefulness. Study inclusive and sustainable electronic innovations. All skill and interest levels are welcome as class culture goals seek to break cycles of technical-skill exclusivity and product-over-purpose and elevate diverse identifiers. This class meets the &quot;Design & Engineering&quot; Tech Arts category requirement.  Prerequisite: Design and Technology This course is offered in Fall 2026 and is UC approved.",
+      "prerequisites": "Design and Technology",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Fall 2026"
+      ]
+    },
+    {
+      "id": 185,
+      "title": "Circuits and Electronics: Device Invention",
+      "slug": "technical-arts-courses/post/circuits-and-electronics-device-invention-technical-arts-courses",
+      "department": "Technical Arts",
+      "term": "Spring 2027",
+      "brief_description": "Explore the dual nature of technology in our world",
+      "description": "What are the core elements of designing and inventing with electronics? This course invites you to become a designer and creator of connected, data-driven devices. As “inventors,” we will seek to create useful and magical electronic interfaces. What You'll Learn: Design and build IoT (Internet of Things) devices using microprocessors and single-board computers (Raspberry Pi). Engage in open-ended, collaborative projects to develop devices to improve the world. Balance refined craftsmanship with rapid prototyping techniques. Gain skills in circuitry, mechanics, coding, and creating enclosures for various electronic objects. Collaborate with peers in a flexible learning environment, guided by an instructor who facilitates and learns alongside you. Access various resources, including online documentation, peer knowledge, generative AI, and instructor support. Join in a journey of invention. All skill and interest levels are welcome, as class culture goals seek to break cycles of technical-skill exclusivity and product-over-purpose, and to elevate diverse identifiers. This class meets the Tech Arts &quot;Design & Engineering&quot; category requirement. Prerequisite: Design and Technology This course is offered in Spring 2027 and is UC approved.",
+      "prerequisites": "Design and Technology",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Spring 2027"
+      ]
+    },
+    {
+      "id": 550,
+      "title": "Code for Sound",
+      "slug": "technical-arts-courses/post/sustainable-design-1743120584395",
+      "department": "Technical Arts",
+      "term": "Fall 2026; Spring 2027",
+      "brief_description": "Core concepts of data structures, algorithms, and data wrangling",
+      "description": "This course introduces core concepts of data structures, algorithms, and data wrangling to students already familiar with computer programming basics (syntax, debugging, control flow, functions, scope, and classes) by applying object-oriented computer programming to creative projects in digital music production. No prior experience playing or writing music is required. This class meets the Tech Arts “Design & Engineering” category requirement. Prerequisite: Design & Technology and 1) Device Invention, 2) Graphics and Game Design, or 3) equivalent prior experience. Students with prior experience from outside Tech Arts will be asked to demonstrate these skills through a code sample before enrolling; no prior experience playing or writing music is required. This semester long course is offered in both Fall 2026 and Spring 2027 and is UC approved.",
+      "prerequisites": "Design & Technology and 1) Device Invention, 2) Graphics and Game Design, or 3) equivalent prior experience. Students with prior experience from outside Tech Arts will be asked to demonstrate these skills through a code sample before enrolling; no prior experience playing or writing music is required.",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Fall 2026",
+        "Spring 2027"
+      ]
+    },
+    {
+      "id": 187,
+      "title": "Design & Technology",
+      "slug": "technical-arts-courses/post/design-technology-technical-arts-courses",
+      "department": "Technical Arts",
+      "term": "Yearlong",
+      "brief_description": "The many facets of design and the infinite possibilities of object making",
+      "description": "This course explores the many facets of design and the infinite possibilities of object making. Creative problem solving through exploration in design principles and hands-on prototyping serves as the groundwork for advancement in later Technical Arts courses. This cross-disciplinary course emphasizes skill-building, collaboration, critical thinking, and project management. Students learn the basics of three-dimensional and computer-aided rendering, rapid idea generation, and object design principles through the lens of contemporary examples during the first segment of the course. During the second part of the curriculum, these new skills are applied to design and build a programmable LED Glowing Object. The design process builds upon knowledge from the first part of the semester, utilizing hand drawing and rapid design visualization before moving into detailed digital modeling. Students must use the materials, tools, and techniques of multiple shop disciplines during the class's fabrication portion: metal, wood, plastics, fabrics, electronics, programming, and digital fabrication.  This course, taken concurrently with Contemporary Media & Art (Visual Arts Department), is required of all 9th graders and is a prerequisite for further work in the Technical Arts Department. Prerequisite: None This is a yearlong course and is UC approved.",
+      "prerequisites": "for further work in the Technical Arts Department.",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [
+        "Frosh Requirement"
+      ],
+      "tags": [
+        "Yearlong",
+        "Frosh Requirement"
+      ]
+    },
+    {
+      "id": 188,
+      "title": "Graphics and Game Design",
+      "slug": "technical-arts-courses/post/graphics-and-game-design",
+      "department": "Technical Arts",
+      "term": "Fall 2026; Spring 2027",
+      "brief_description": "Creative, innovative, and practical applications of computer programming",
+      "description": "This course introduces students to creative, innovative, and practical applications of computer programming. In the first of two projects, students use generative drawing techniques to design graphic patterns for a textile, which then becomes physical as we digitally print and sew an object from the code-created fabric. The project explores visual principles like color theory alongside programming fundamentals, including control flow, data types, variables, functions, arrays, and randomization. In the second project, students use object-oriented programming to design and build a unique browser-based game. Throughout the course, we use pair programming as well as formal and informal feedback sessions to create a social, collaborative, and inclusive classroom community.     The syllabus is project-based and requires no previous background—we begin with the basics. Students with prior experience are equally welcome and will have the opportunity to stretch their knowledge through interest-driven projects and through connections to other disciplines.  This class meets the Tech Arts “Design & Engineering” category requirement. Prerequisite: Design & Technology This semester long course is offered in both Fall 2026 and Spring 2027 and is UC approved.",
+      "prerequisites": "Design & Technology",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Fall 2026",
+        "Spring 2027"
+      ]
+    },
+    {
+      "id": 189,
+      "title": "Jewelry 1",
+      "slug": "technical-arts-courses/post/jewelry-1-technical-arts-courses",
+      "department": "Technical Arts",
+      "term": "Fall 2026; Spring 2027",
+      "brief_description": "Metalsmithing, jewelry, and creative craftsmanship",
+      "description": "In this course, students learn traditional techniques of metalsmithing and jewelry using copper, brass, and sterling silver. Students are introduced to a number of techniques for cutting metal, cold methods of joinery, soldering, forming, as well as various means of surface textures and treatments. The design process will be emphasized through research, drawing and working closely with the teacher to develop and expand ideas. Creativity and innovation are fostered and encouraged. As the class progresses, students will better recognize the value of craftsmanship as they create their own skillfully crafted, one of a kind, wearable art. This class meets the “Design & Craft” category requirement. Prerequisite: Design and Technology This course is offered in both Fall 2026 and Spring 2027 and is UC approved.",
+      "prerequisites": "Design and Technology",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Fall 2026",
+        "Spring 2027"
+      ]
+    },
+    {
+      "id": 190,
+      "title": "Jewelry 2",
+      "slug": "technical-arts-courses/post/jewelry-2-technical-arts-courses",
+      "department": "Technical Arts",
+      "term": "Fall 2026",
+      "brief_description": "Metalwork, soldering, and&nbsp;stone setting",
+      "description": "In addition to refining the techniques learned in Jewelry 1, this course will expose students to more complex technical processes, such as chain making, stone setting, and enameling. As students become more confident with soldering and other smithing techniques, they will begin to gain the confidence to create a wide range of objects and realize more complex designs. Craftsmanship and design will be emphasized through a series of projects aimed to challenge students while they create one of a kind wearable art. This semester-long course can be repeated and offers a modified curriculum to challenge more advanced students. This class meets the “Design & Craft” category requirement. Prerequisites: Design & Technology and Jewelry 1 This course is offered in Fall 2026 and is UC approved.",
+      "prerequisites": "Design & Technology and Jewelry 1",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Fall 2026"
+      ]
+    },
+    {
+      "id": 191,
+      "title": "Private Skills for a Public Purpose PPP",
+      "slug": "technical-arts-courses/post/private-skills-for-a-public-purpose-ppp-technical-arts-courses",
+      "department": "Technical Arts",
+      "term": "Fall 2026; Spring 2027; PPP",
+      "brief_description": "Build skills while fulfilling local partner organizations&#39; needs",
+      "description": "Private Skills for a Public Purpose (PSPP) aims, through design and research, to allow our students to examine their privileges and biases and, more importantly, the role we all play in the larger education system. Students mix reading and research with tangible, hands-on shop skills to build relationships and foster empathy for people beyond the school walls. Shop skills are primarily in wood and metal fabrication; however, specific tools or mediums do not constrain the course. Students have the opportunity to work closely with a public school or nonprofit organization to provide design and build skills while filling needs within the local organizations. The course begins with an in-depth inquiry into systematic social inequities and challenges students to think about their privileged position. The rest of the course focuses on designing and building projects to meet the organization's and stakeholders' needs. This course is an ideal opportunity for students to learn about the client/builder relationship through site visits, interviews, and observations about the organization's needs. The experience culminates in the delivery of the finished projects. This class meets the Tech Arts &quot;Design & Engineering&quot; category requirement. Prerequisite: Design & Technology This UC approved semester long course is offered in both Fall 2026 and Spring 2027 and fulfills the Public Purpose Program requirement for juniors and seniors.",
+      "prerequisites": "Design & Technology",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": true,
+      "grade_requirements": [
+        "Junior/Senior"
+      ],
+      "tags": [
+        "Fall 2026",
+        "Spring 2027",
+        "PPP",
+        "Junior/Senior"
+      ]
+    },
+    {
+      "id": 225,
+      "title": "Advanced Architectural Design",
+      "slug": "visual-arts1/post/advanced-architectural-design",
+      "department": "Visual Arts",
+      "term": "Yearlong",
+      "brief_description": "Socially responsible and sustainable architecture",
+      "description": "A continuation and extension of the introductory Architectural Design class, the Advanced Architectural Design course is designed to make connections with the real world. While students still explore the value of creativity and originality of their designs, a great emphasis is placed on learning about socially responsible and sustainable architecture. Additionally, students study the technological, ecological, and urban aspects of skyscrapers because they have fundamentally transformed cities. No other form of construction can replace them as a response to the exponentially increasing need for space. In order to deepen their sense of architectural composition while developing a personal style, students work on individual and group projects. Their studio work is supplemented with slides and film presentations that address issues in contemporary architecture. Class activities include oral and written critiques in response to student and professional work, visits to exhibits and design studios, and presentations by local professionals. Prerequisite: Architectural Design or permission from the instructor. This course is offered yearlong and is UC approved.",
+      "prerequisites": "Architectural Design or permission from the instructor.",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Yearlong"
+      ]
+    },
+    {
+      "id": 226,
+      "title": "Architectural Design",
+      "slug": "visual-arts1/post/architectural-design",
+      "department": "Visual Arts",
+      "term": "Yearlong",
+      "brief_description": "The principles of architectural composition",
+      "description": "Students will explore the world of their imagination as they learn the principles of architectural composition. The course will address foundations of the design process such as form, function, proportion, scale, and space. Through a number of individual projects, students learn about specific requirements for the design of private and public spaces. Great emphasis is placed on creativity, graphic presentation, and computer skills. In addition, students practice hand sketching and coloring, as well as model making. Studio work is supplemented by a survey of important monuments in the history of architecture, guest appearances by local architects, and field trips to design studios. Prerequisite: Contemporary Media and Art This course is offered yearlong and is UC approved.",
+      "prerequisites": " Contemporary Media and Art",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Yearlong"
+      ]
+    },
+    {
+      "id": 227,
+      "title": "Architectural Design 3",
+      "slug": "visual-arts1/post/architectural-design-3",
+      "department": "Visual Arts",
+      "term": "Yearlong",
+      "brief_description": "A deeper analysis&nbsp;of the architectural world",
+      "description": "A continuation and extension of the Advanced Architectural Design, this course is designed to make deeper connections with the world of architecture. Students are given an opportunity to explore topics in the field of their interest. They continue to examine the rich and imaginative accomplishments in contemporary architecture. They develop creative ways to solve the problems of defining and organizing space while satisfying the functional and technical requirements. The work can be design or research based. The final product can vary from models and drawings to articles and journals. Their studio work is supplemented with slides and film presentations. Class activities include oral and written critiques in response to student and professional work, visits to exhibits and design studios, and presentations by local professionals. Prerequisite: Advanced Architectural Design This course is offered yearlong and is UC approved.",
+      "prerequisites": "Advanced Architectural Design",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Yearlong"
+      ]
+    },
+    {
+      "id": 228,
+      "title": "Art in Action PPP",
+      "slug": "visual-arts1/post/art-in-action-ppp",
+      "department": "Visual Arts",
+      "term": "Fall 2025; Spring 2026; PPP",
+      "brief_description": "Changemaking through the language of art",
+      "description": "Changemaking through the language of art This class explores and examines how to use the language of art, via multimedia, to create change in the world. Topics covered include how the language of art influences social interactions through films, podcasting, and graphic design. Students will learn to create a socially engaged art practice, how to construct influence in the digital world, skills for effective visual communication, and media production to disseminate ideas. An examination of artworks that spurred cultural change, along with class field trips and guest visits with contemporary artists, will guide us in the making of our own original artwork.   Prerequisite: Contemporary Media and Art This semester long course is offered in both Fall 2026 and Spring 2027 and fulfills the Public Purpose Program requirement for juniors and seniors. It is a UC approved course.",
+      "prerequisites": "Contemporary Media and Art",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": true,
+      "grade_requirements": [
+        "Junior/Senior"
+      ],
+      "tags": [
+        "Fall 2025",
+        "Spring 2026",
+        "PPP",
+        "Junior/Senior"
+      ]
+    },
+    {
+      "id": 230,
+      "title": "Contemporary Media and Art",
+      "slug": "visual-arts1/post/contemporary-media-and-art",
+      "department": "Visual Arts",
+      "term": "Yearlong",
+      "brief_description": "Architecture, Collage, Digital Photography, Drawing, Film, and Painting",
+      "description": "All LWHS students take this energetic, multidisciplinary arts class. Contemporary Media and Art is a course in Architecture, Collage, Digital Photography, Drawing, Film, and Painting where students get experience in a wide variety of visual languages and exposure to the practice and history of each medium. Students work in traditional and digital media, learning how it can be used to create compelling and meaningful artwork. Class projects are thematically based. Students develop creative and personal expressions in response to relevant social matters, individual interests and experience, as well as explorations of design, composition and form. We strive to embolden all 9th graders in their abilities in the visual arts. To that aim, students actively keep a visual journal for projects and experimentation. Through their work, 9th graders expand their knowledge about art and enhance their appreciation of its role in society. During the year, students use the habits of mind through imagination, expression, and reflection. With inquiry, effort, and perseverance students grow as artists, thinkers, and people. Prerequisite: None  This course is offered yearlong and is UC approved.",
+      "prerequisites": "None ",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [
+        "Frosh Requirement"
+      ],
+      "tags": [
+        "Yearlong",
+        "Frosh Requirement"
+      ]
+    },
+    {
+      "id": 231,
+      "title": "Drawing & Painting",
+      "slug": "visual-arts1/post/drawing-painting",
+      "department": "Visual Arts",
+      "term": "Fall 2026; Spring 2027",
+      "brief_description": "Drawing & painting through observation and analysis of the physical world",
+      "description": "The premise of this class is that drawing and painting are learnable skills through which one is able to connect with and express the creativity that lies within. This class teaches students to draw and paint through exercises that train them in observation and analysis of the physical world. Students study the foundations of realist art and begin to explore connections with abstract art, and art inspired by the imagination. Students forge competency in art skills through assignments that cover various techniques and materials that are designed to promote and encourage growth in creative interpretation and nurture individual style. They are expected to explore ideas and methods that may be new and challenging, that may lead to personal discoveries. The successful student strives for both technical proficiency and creative expression. Pedagogy will include demonstrations, critiques and discussions, field trips, as well as video and slide presentations. Prerequisites: Contemporary Media and Art This semester long course is offered in both Fall 2026 and Spring 2027 and is UC approved.",
+      "prerequisites": "Contemporary Media and Art",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Fall 2026",
+        "Spring 2027"
+      ]
+    },
+    {
+      "id": 229,
+      "title": "Film 1: Cinematic Storytelling PPP",
+      "slug": "visual-arts1/post/cinematic-storytelling-ppp",
+      "department": "Visual Arts",
+      "term": "Fall 2026; Spring 2027; PPP",
+      "brief_description": "The art of filmmaking with a focus on storytelling",
+      "description": "In this class, students will have the opportunity to delve into the art of filmmaking while shining a focused spotlight on storytelling. Students will have the opportunity to develop their own original short films and learn specific techniques, including the visual language of film, character development, and dramatic motivation. Students will hone their shooting skills and cinematography with in-class exercises, create original screenplays and storyboards, and learn techniques to improve workflow during digital video editing. The art of sound design and lighting will also be introduced. The point of view of both the filmmaker and the audience will be examined. Students will watch and analyze a diverse array of exemplary films. Prerequisite: Contemporary Media and Art This semester long course is offered in both Fall 2026 and Spring 2027 and fulfills the Public Purpose Program requirement for juniors and seniors. It is a UC approved course.",
+      "prerequisites": "Contemporary Media and Art",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": true,
+      "grade_requirements": [
+        "Junior/Senior"
+      ],
+      "tags": [
+        "Fall 2026",
+        "Spring 2027",
+        "PPP",
+        "Junior/Senior"
+      ]
+    },
+    {
+      "id": 363,
+      "title": "Film 2: Advanced Film Studio",
+      "slug": "visual-arts1/post/studio-art-painting-1712178130813",
+      "department": "Visual Arts",
+      "term": "Spring 2027",
+      "brief_description": "A continuation and extension of the Film 1: Cinematic Storytelling PPP class",
+      "description": "The Advanced Film Studio course is designed to make deeper connections with the art of filmmaking. Students will have the opportunity to explore topics in their field of interest, growing their personal style and artistic vision. Motion effects and graphics, keyframing, mattes, multiple camera editing, advanced audio production, LUTs color grading, dynamic image movement, and animation will also be introduced. Emphasizing individual creativity and collaborative work, students will hone their camera skills, create screenplays and storyboards, develop and manage their principal photography projects, and learn techniques to improve workflow during editing. Manipulation of the visual language of film, intention, impact, and meaning will be explored. Prerequisite: Film 1: Cinematic Storytelling PPP This course is offered in Spring 2027 and is UC approved.",
+      "prerequisites": "Film 1: Cinematic Storytelling PPP",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": true,
+      "grade_requirements": [],
+      "tags": [
+        "Spring 2027"
+      ]
+    },
+    {
+      "id": 232,
+      "title": "Photography 1",
+      "slug": "visual-arts1/post/photography-1",
+      "department": "Visual Arts",
+      "term": "Fall 2026; Spring 2027",
+      "brief_description": "Foundational skills in digital single-lens reflex camera, Photoshop & digital printing",
+      "description": "This class is an introduction to photography, emphasizing both art and technique. It covers basic skills in the use of a manual 35mm film camera and beginning darkroom processes. It will also cover digital techniques, including basic Photoshop adjustments, and digital printing. Assignments will focus on building technical skill and exploring your personal voice through the medium of photography. Some topics include portraiture, landscape, and pinhole photography. The course will expose students to contemporary and historic photographic work and invite reflection and growth through critique and revision. Coursework considers the qualities of photography as a visual art and as a means of creative communication. Prerequisite: Contemporary Media and Art This semester long course is offered in both Fall 2026 and Spring 2027 and is UC approved.",
+      "prerequisites": "Contemporary Media and Art",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Fall 2026",
+        "Spring 2027"
+      ]
+    },
+    {
+      "id": 217,
+      "title": "Accelerated Spanish 2",
+      "slug": "world-languages1/post/spanish-2-accelerated",
+      "department": "World Languages",
+      "term": "Yearlong",
+      "brief_description": "Enhance communicative skills with a focus on vocabulary expansion",
+      "description": "Accelerated Spanish 2 is designed for students who have demonstrated a mastery of the grammar and vocabulary of Spanish 1 in both their written and oral communications. In this course, students enhance their communicative skills with a focus on vocabulary expansion, hone their skills in applying the grammar they learned in Spanish 1, and gain an understanding of the uses of the indicative past tenses and approach to other advanced conjugations. The textbook Enfoques and teacher-generated materials are the primary resources. Students read several readers in Spanish, create their own stories, listen to and discuss music, view and analyze short films, and work collaboratively on many different group projects to enhance their oral, listening, and writing skills. The class is primarily conducted in Spanish. Prerequisites: Spanish 1 students who have met the grade requirements for entrance into this class. Incoming students must take a written and oral placement examination. This course is offered yearlong and is UC approved.",
+      "prerequisites": "Spanish 1 students who have met the grade requirements for entrance into this class. Incoming students must take a written and oral placement examination.",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Yearlong"
+      ]
+    },
+    {
+      "id": 206,
+      "title": "Chinese 1",
+      "slug": "world-languages1/post/chinese-1",
+      "department": "World Languages",
+      "term": "Yearlong",
+      "brief_description": "Develop foundational Chinese skills",
+      "description": "Chinese 1 is the foundation course for the study of Mandarin Chinese. It is designed for students who have had little or no previous study of the language. Through various classroom activities and projects, students develop all four language skills including listening, speaking, reading and writing(simplified characters) in basic Mandarin Chinese on daily life topics such as family, time and school life. The textbook Integrated Chinese volume 1 is the primary resource, along with other supplementary listening and reading materials. This course prepares the students to achieve a proficiency level of Novice-mid to Novice-High across interpretive, interpersonal, and presentational communications (based on the ACTFL standards) at the end of the school year. Mandarin Chinese is the primary language of instruction. Prerequisite: None  This course is offered yearlong and is UC approved.",
+      "prerequisites": "None ",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Yearlong"
+      ]
+    },
+    {
+      "id": 207,
+      "title": "Chinese 2",
+      "slug": "world-languages1/post/chinese-2",
+      "department": "World Languages",
+      "term": "Yearlong",
+      "brief_description": "Build upon the foundations developed in Chinese 1",
+      "description": "Chinese 2 builds upon and extends the foundations developed in Chinese 1. Language skills and cultural knowledge are broadened and deepened with more topics introduced. Topics include but are not limited to shopping, transportation, weather, seeing a doctor etc. Students will also be introduced to the culture via supplemental readings and listening materials, while the textbook Integrated Chinese volume 1 & 2 serves as the primary resource. This course prepares the students to achieve a proficiency level of Novice-high to Intermediate-low across interpretive, interpersonal, and presentational communications (based on the ACTFL standards) at the end of the school year. Mandarin Chinese is the sole language of instruction. Prerequisites: Chinese 1. Incoming students must take a placement examination and be interviewed. This course is offered yearlong and is UC approved.",
+      "prerequisites": "Chinese 1. Incoming students must take a placement examination and be interviewed.",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Yearlong"
+      ]
+    },
+    {
+      "id": 208,
+      "title": "Chinese 3",
+      "slug": "world-languages1/post/chinese-3",
+      "department": "World Languages",
+      "term": "Yearlong",
+      "brief_description": "Expressions, styles, and language structures of higher complexity in both oral and written communication forms",
+      "description": "Chinese 3 builds upon and extends the foundations developed in Chinese 2. Its primary focus is to equip the students with expressions, styles, and language structures of higher complexity in both oral and written communication forms. Students continue to refine reading and writing using all modes. This course prepares the students to achieve a proficiency level of Intermediate-low to Intermediate-mid across interpretive, interpersonal, and presentational communications (based on the ACTFL standards) at the end of the school year. Topics include but are not limited to living space, sports, travel, academic planning, and education systems. The course will follow Integrated Chinese Volume 2 &3  and other supplementary materials. Correlated cultural topics are introduced with each unit for further exploration and comparisons. Mandarin Chinese is the sole language of instruction. Prerequisites: Chinese 2. Incoming students must take a placement examination. This course is offered yearlong and is UC approved.",
+      "prerequisites": " Chinese 2. Incoming students must take a placement examination.",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Yearlong"
+      ]
+    },
+    {
+      "id": 211,
+      "title": "French 1",
+      "slug": "world-languages1/post/french-1",
+      "department": "World Languages",
+      "term": "Yearlong",
+      "brief_description": "Develop foundational French skills",
+      "description": "French I is the foundation course for the study of French, designed for students who have had no previous study of the language, or not quite enough to have placed into French 2.  Students acquire essential vocabulary through stories and through verbal, audio, visual, and tactile modes, movement, music and rhythm, and interactive games. These multi-sensory strategies increase retention.  We build intercultural competency through the exploration of many francophone cultures and learn to communicate in a variety of contexts, including but not limited to, sharing personal information, school, leisure-time activities, family, fashion and clothing, and technology.  The primary focus is on comprehensible communication, and grammar is scaffolded to support that goal. Students are able to write basic sentences, personal paragraphs, story summaries, and original stories. .   Prerequisites: None This course is offered yearlong and is UC approved.",
+      "prerequisites": "None",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Yearlong"
+      ]
+    },
+    {
+      "id": 212,
+      "title": "French 2",
+      "slug": "world-languages1/post/french-2",
+      "department": "World Languages",
+      "term": "Yearlong",
+      "brief_description": "Speak more creatively and spontaneously in French",
+      "description": "In French 2, we continue our language proficiency journey.  Students begin to transition from speaking with memorized structures toward speaking more creatively and spontaneously in French, expanding themes to move beyond their immediate world.  We review French 1 thoroughly before developing communication and intercultural skills around the themes of travel and language, family and relationships,  personal style, and other topics.  We continue to explore deeper the many Francophone cultures of Europe, Africa, the Americas, and the South Pacific. We communicate in the present, past, and future, as well as begin to use more advanced structures. Prerequisites: French 1. Incoming students must take a written and oral placement examination. This course is offered yearlong and is UC approved.",
+      "prerequisites": "French 1. Incoming students must take a written and oral placement examination.",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Yearlong"
+      ]
+    },
+    {
+      "id": 213,
+      "title": "French 3",
+      "slug": "world-languages1/post/french-3",
+      "department": "World Languages",
+      "term": "Yearlong",
+      "brief_description": "Explore francophone cultures through thematic stories and other media",
+      "description": "In French 3, students continue to develop language proficiency as they explore francophone cultures through thematic stories and other media.  We examine art in our daily lives and as a reflection of culture, borders and migration, climate and environment, and other topics.  Students create more with the language as they expand their ability to communicate in personal, social, and other contexts.  Basic grammar is reviewed and refined in the context of these themes, and more advanced structures, such as the conditional and subjunctive verb tenses, are used.  Students expand and refine their writing through the use of transitional devices and the practice of both formal and informal correspondence.   Prerequisites: French 2. Incoming students must take a written and oral placement examination. This course is offered yearlong and is UC approved.",
+      "prerequisites": "French 2. Incoming students must take a written and oral placement examination.",
+      "uc_approved": true,
+      "honors": false,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Yearlong"
+      ]
+    },
+    {
+      "id": 209,
+      "title": "Honors Chinese 4",
+      "slug": "world-languages1/post/chinese-4-honors-ppp",
+      "department": "World Languages",
+      "term": "Yearlong",
+      "brief_description": "Communicate in great depth about everyday activities, current events, and culture",
+      "description": "Honors Chinese 4 extends the foundation developed in previous levels and improves students' ability to communicate in the context of contemporary Chinese culture. Students analyze readings in the textbook, as well as historical idiom stories and classic novels. Students communicate in great depth about everyday activities, current events, and culture. Students further expand on their abilities to read and write in all modes. Topics include but are not limited to the course selection, computer and Internet usages, working part-time, education, geography of China, various idiom stories, etc.  The course will follow Integrated Chinese Volume 3  and other supplementary materials. Correlated cultural topics are introduced with each unit for further exploration and comparisons. This course prepares the students to achieve a proficiency level of Intermediate-mid to Intermediate-high across interpretive, interpersonal, and presentational communications (based on the ACTFL standards) at the end of the school year. Mandarin Chinese is the sole language of instruction. Prerequisites: Chinese 3 students who have met the requirements for entrance into Chinese Honors 4. Any new student to the Chinese program must take a placement examination. This course is offered yearlong and is UC approved.",
+      "prerequisites": " Chinese 3 students who have met the requirements for entrance into Chinese Honors 4. Any new student to the Chinese program must take a placement examination.",
+      "uc_approved": true,
+      "honors": true,
+      "g_course": false,
+      "ppp": false,
+      "grade_requirements": [],
+      "tags": [
+        "Yearlong"
+      ]
+    },
+    {
+      "id": 210,
+      "title": "Honors Chinese 5/6 PPP",
+      "slug": "world-languages1/post/chinese-56-honors-ppp",
+      "department": "World Languages",
+      "term": "Yearlong; PPP",
+      "brief_description": "Explore China's past and present, through reading, research, writing essays, and more",
+      "description": "This advanced course is designed for students who have reached an intermediate-high to advanced-low level of proficiency in listening, reading, writing, and speaking Chinese. With emphasis on thematic units, students will explore China’s past and present,  through reading, research, writing essays, giving presentations and engaging in daily discussions using critical thinking, comparing, and contrasting.  Authentic materials will be used as the primary resource. Mandarin Chinese is the sole language of instruction.  This combo course is on a two-year cycle. Each year, we will work with different curriculums and projects, therefore CHI 6H is not a repeat of CHI 5H.    The public purpose program (PPP) component will align with the curriculum to guide students to apply their knowledge to the actions,  then ultimately bring positive change to the community around them. Prerequisite: Honors Chinese 4 or Honors Chinese 5 students who have met the requirements for entrance into Honors Chinese 5/Honors Chinese 6. Any new student to the Chinese program must take a placement examination. This UC approved course is offered yearlong and fulfills the Public Purpose Program requirement for juniors and seniors.",
+      "prerequisites": "Honors Chinese 4 or Honors Chinese 5 students who have met the requirements for entrance into Honors Chinese 5/Honors Chinese 6. Any new student to the Chinese program must take a placement examination.",
+      "uc_approved": true,
+      "honors": true,
+      "g_course": false,
+      "ppp": true,
+      "grade_requirements": [
+        "Junior/Senior"
+      ],
+      "tags": [
+        "Yearlong",
+        "PPP",
+        "Junior/Senior"
+      ]
+    }
+  ]
+}
